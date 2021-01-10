@@ -4,25 +4,30 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
+  - name: BriefPoint
+    url: https://www.briefpoint.fr
+  - name: Dreamension
+    url: https://dreamension.fr
+  - name: Infochat
+    url: https://www.infochat.fr
+  - name: JV360
+    url: https://jv360.fr
+  - name: Musga
+    url: https://musga.fr
+  - name: PetitGeste
+    url: https://petitgeste.fr
+  - name: Shop Aishy
+    url: https://aishy.fr
+  - name: Shop Yuudoku
+    url: https://yuudoku.jv360.fr
   - name: Secret Site
     url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: status.dreamension.fr
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
