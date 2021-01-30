@@ -22,19 +22,19 @@
     "url": "https://dreamension.fr",
     "icon": "https://favicons.githubusercontent.com/dreamension.fr",
     "slug": "dreamension",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 752,
     "timeDay": 1751,
     "timeWeek": 982,
     "timeMonth": 752,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2021-01-30": 5,
+      "2021-01-30": 3,
       "2021-01-23": 100
     }
   },
@@ -79,10 +79,10 @@
     "url": "https://musga.fr",
     "icon": "https://favicons.githubusercontent.com/musga.fr",
     "slug": "musga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
     "time": 867,
@@ -91,6 +91,7 @@
     "timeMonth": 867,
     "timeYear": 867,
     "dailyMinutesDown": {
+      "2021-01-30": 2,
       "2021-01-23": 100
     }
   },
@@ -117,10 +118,10 @@
     "url": "https://aishy.fr",
     "icon": "https://favicons.githubusercontent.com/aishy.fr",
     "slug": "shop-aishy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
     "time": 7650,
@@ -129,6 +130,7 @@
     "timeMonth": 7650,
     "timeYear": 7650,
     "dailyMinutesDown": {
+      "2021-01-30": 2,
       "2021-01-23": 99
     }
   },
@@ -137,9 +139,9 @@
     "url": "https://yuudoku.jv360.fr",
     "icon": "https://favicons.githubusercontent.com/yuudoku.jv360.fr",
     "slug": "shop-yuudoku",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.67%",
@@ -149,6 +151,7 @@
     "timeMonth": 1460,
     "timeYear": 1460,
     "dailyMinutesDown": {
+      "2021-01-30": 0,
       "2021-01-23": 98
     }
   }
