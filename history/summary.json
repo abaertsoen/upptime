@@ -4,19 +4,19 @@
     "url": "https://www.briefpoint.fr",
     "icon": "https://favicons.githubusercontent.com/www.briefpoint.fr",
     "slug": "brief-point",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 0,
-    "timeWeek": 902,
-    "timeMonth": 873,
-    "timeYear": 898,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 891,
+    "timeDay": 599,
+    "timeWeek": 858,
+    "timeMonth": 861,
+    "timeYear": 891,
     "dailyMinutesDown": {
-      "2021-02-17": 1
+      "2021-02-17": 12
     }
   },
   {
@@ -33,7 +33,7 @@
     "time": 694,
     "timeDay": 791,
     "timeWeek": 651,
-    "timeMonth": 692,
+    "timeMonth": 694,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2021-02-01": 108,
@@ -47,19 +47,19 @@
     "url": "https://www.infochat.fr",
     "icon": "https://favicons.githubusercontent.com/www.infochat.fr",
     "slug": "infochat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 0,
-    "timeWeek": 973,
-    "timeMonth": 829,
-    "timeYear": 871,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 874,
+    "timeDay": 1008,
+    "timeWeek": 978,
+    "timeMonth": 837,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2021-02-17": 1
+      "2021-02-17": 12
     }
   },
   {
@@ -76,7 +76,7 @@
     "time": 692,
     "timeDay": 881,
     "timeWeek": 693,
-    "timeMonth": 695,
+    "timeMonth": 697,
     "timeYear": 692,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,7 @@
     "time": 1081,
     "timeDay": 841,
     "timeWeek": 724,
-    "timeMonth": 1134,
+    "timeMonth": 1145,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2021-02-01": 98,
@@ -108,19 +108,19 @@
     "url": "https://petitgeste.fr",
     "icon": "https://favicons.githubusercontent.com/petitgeste.fr",
     "slug": "petit-geste",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 993,
-    "timeDay": 0,
-    "timeWeek": 975,
-    "timeMonth": 956,
-    "timeYear": 993,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 985,
+    "timeDay": 656,
+    "timeWeek": 930,
+    "timeMonth": 946,
+    "timeYear": 985,
     "dailyMinutesDown": {
-      "2021-02-17": 0
+      "2021-02-17": 11
     }
   },
   {
@@ -137,7 +137,7 @@
     "time": 6235,
     "timeDay": 1752,
     "timeWeek": 4872,
-    "timeMonth": 5889,
+    "timeMonth": 5986,
     "timeYear": 6235,
     "dailyMinutesDown": {
       "2021-02-01": 71,
@@ -160,7 +160,7 @@
     "time": 1518,
     "timeDay": 2153,
     "timeWeek": 753,
-    "timeMonth": 1591,
+    "timeMonth": 1611,
     "timeYear": 1518,
     "dailyMinutesDown": {
       "2021-02-01": 26,
