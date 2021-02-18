@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.briefpoint.fr",
     "slug": "brief-point",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 891,
     "timeDay": 599,
     "timeWeek": 858,
     "timeMonth": 861,
     "timeYear": 891,
-    "dailyMinutesDown": {
-      "2021-02-17": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dreamension",
@@ -48,19 +46,17 @@
     "icon": "https://favicons.githubusercontent.com/www.infochat.fr",
     "slug": "infochat",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 874,
     "timeDay": 1008,
     "timeWeek": 978,
     "timeMonth": 837,
     "timeYear": 874,
-    "dailyMinutesDown": {
-      "2021-02-17": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "JV360",
@@ -109,19 +105,17 @@
     "icon": "https://favicons.githubusercontent.com/petitgeste.fr",
     "slug": "petit-geste",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 985,
     "timeDay": 656,
     "timeWeek": 930,
     "timeMonth": 946,
     "timeYear": 985,
-    "dailyMinutesDown": {
-      "2021-02-17": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shop Aishy",
