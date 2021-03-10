@@ -4,10 +4,10 @@
     "url": "https://www.briefpoint.fr",
     "icon": "https://favicons.githubusercontent.com/www.briefpoint.fr",
     "slug": "brief-point",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 864,
@@ -15,7 +15,9 @@
     "timeWeek": 723,
     "timeMonth": 820,
     "timeYear": 864,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-10": 1
+    }
   },
   {
     "name": "Dreamension",
@@ -46,10 +48,10 @@
     "url": "https://www.infochat.fr",
     "icon": "https://favicons.githubusercontent.com/www.infochat.fr",
     "slug": "infochat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 914,
@@ -57,7 +59,9 @@
     "timeWeek": 921,
     "timeMonth": 988,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-10": 1
+    }
   },
   {
     "name": "JV360",
@@ -106,9 +110,9 @@
     "url": "https://petitgeste.fr",
     "icon": "https://favicons.githubusercontent.com/petitgeste.fr",
     "slug": "petit-geste",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
@@ -118,6 +122,7 @@
     "timeMonth": 1004,
     "timeYear": 1003,
     "dailyMinutesDown": {
+      "2021-03-10": 0,
       "2021-02-25": 29
     }
   },
