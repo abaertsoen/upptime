@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.briefpoint.fr",
     "slug": "brief-point",
     "status": "up",
-    "uptime": "54.41%",
+    "uptime": "54.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "47.37%",
-    "time": 2111,
-    "timeDay": 2100,
-    "timeWeek": 2448,
-    "timeMonth": 2530,
-    "timeYear": 2493,
+    "uptimeYear": "47.62%",
+    "time": 2113,
+    "timeDay": 2745,
+    "timeWeek": 2460,
+    "timeMonth": 2541,
+    "timeYear": 2494,
     "dailyMinutesDown": {
       "2022-02-21": 23,
       "2022-02-20": 15,
@@ -216,8 +216,7 @@
       "2021-03-17": 1440,
       "2021-03-16": 1440,
       "2021-03-15": 1440,
-      "2021-03-14": 1440,
-      "2021-03-13": 1440
+      "2021-03-14": 1440
     }
   },
   {
@@ -232,9 +231,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.87%",
     "time": 640,
-    "timeDay": 418,
-    "timeWeek": 676,
-    "timeMonth": 622,
+    "timeDay": 700,
+    "timeWeek": 670,
+    "timeMonth": 627,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2022-02-21": 22,
@@ -253,8 +252,7 @@
       "2021-05-02": 54,
       "2021-04-27": 20,
       "2021-03-15": 51,
-      "2021-03-14": 51,
-      "2021-03-13": 38
+      "2021-03-14": 51
     }
   },
   {
@@ -263,16 +261,16 @@
     "icon": "https://favicons.githubusercontent.com/www.infochat.fr",
     "slug": "infochat",
     "status": "up",
-    "uptime": "46.93%",
+    "uptime": "47.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "38.65%",
-    "time": 2576,
-    "timeDay": 2478,
-    "timeWeek": 2839,
-    "timeMonth": 3452,
-    "timeYear": 3122,
+    "uptimeYear": "38.90%",
+    "time": 2581,
+    "timeDay": 3747,
+    "timeWeek": 2958,
+    "timeMonth": 3469,
+    "timeYear": 3125,
     "dailyMinutesDown": {
       "2022-02-21": 22,
       "2022-01-30": 16,
@@ -502,8 +500,7 @@
       "2021-03-17": 1440,
       "2021-03-16": 1440,
       "2021-03-15": 1440,
-      "2021-03-14": 1440,
-      "2021-03-13": 1440
+      "2021-03-14": 1440
     }
   },
   {
@@ -512,16 +509,16 @@
     "icon": "https://favicons.githubusercontent.com/jv360.fr",
     "slug": "jv-360",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.78%",
-    "time": 685,
-    "timeDay": 619,
-    "timeWeek": 760,
-    "timeMonth": 705,
-    "timeYear": 692,
+    "time": 686,
+    "timeDay": 951,
+    "timeWeek": 770,
+    "timeMonth": 717,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2022-02-27": 22,
       "2021-11-10": 17,
@@ -543,11 +540,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
-    "time": 795,
-    "timeDay": 489,
-    "timeWeek": 722,
-    "timeMonth": 698,
-    "timeYear": 770,
+    "time": 796,
+    "timeDay": 957,
+    "timeWeek": 748,
+    "timeMonth": 709,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2022-02-21": 21,
       "2022-01-08": 20,
@@ -558,8 +555,7 @@
       "2021-08-05": 33,
       "2021-06-18": 21,
       "2021-05-03": 115,
-      "2021-03-15": 30,
-      "2021-03-13": 37
+      "2021-03-15": 30
     }
   },
   {
@@ -568,7 +564,7 @@
     "icon": "https://favicons.githubusercontent.com/petitgeste.fr",
     "slug": "petit-geste",
     "status": "down",
-    "uptime": "13.80%",
+    "uptime": "13.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -579,7 +575,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-12": 177,
+      "2022-03-13": 53,
+      "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
@@ -942,8 +939,7 @@
       "2021-03-17": 1440,
       "2021-03-16": 1440,
       "2021-03-15": 1440,
-      "2021-03-14": 1440,
-      "2021-03-13": 1440
+      "2021-03-14": 1440
     }
   },
   {
@@ -953,17 +949,16 @@
     "slug": "shop-aishy",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.49%",
-    "time": 5563,
-    "timeDay": 5707,
-    "timeWeek": 6149,
-    "timeMonth": 6394,
+    "time": 5558,
+    "timeDay": 5956,
+    "timeWeek": 6160,
+    "timeMonth": 6223,
     "timeYear": 5536,
     "dailyMinutesDown": {
-      "2022-03-12": 8,
       "2022-03-10": 19,
       "2022-03-08": 16,
       "2022-03-06": 19,
@@ -1059,7 +1054,8 @@
       "2021-06-18": 20,
       "2021-05-03": 76,
       "2021-05-02": 24,
-      "2021-04-28": 20
+      "2021-04-28": 20,
+      "2021-04-26": 18
     }
   },
   {
@@ -1073,11 +1069,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
-    "time": 1356,
-    "timeDay": 1763,
-    "timeWeek": 1459,
-    "timeMonth": 1974,
-    "timeYear": 1358,
+    "time": 1355,
+    "timeDay": 1080,
+    "timeWeek": 1120,
+    "timeMonth": 1979,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2022-02-27": 19,
       "2022-01-08": 18,
@@ -1087,8 +1083,7 @@
       "2021-10-13": 71,
       "2021-06-21": 40,
       "2021-04-28": 19,
-      "2021-03-14": 0,
-      "2021-03-13": 35
+      "2021-03-14": 0
     }
   }
 ]
