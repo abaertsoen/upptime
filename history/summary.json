@@ -497,7 +497,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-27": 81,
+      "2022-04-27": 87,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
@@ -869,18 +869,19 @@
     "url": "https://aishy.fr",
     "icon": "https://favicons.githubusercontent.com/aishy.fr",
     "slug": "shop-aishy",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 5325,
     "timeDay": 2072,
     "timeWeek": 1998,
     "timeMonth": 2146,
     "timeYear": 5333,
     "dailyMinutesDown": {
+      "2022-04-27": 0,
       "2022-04-09": 19,
       "2022-04-04": 22,
       "2022-04-03": 19,
@@ -977,8 +978,7 @@
       "2021-07-13": 30,
       "2021-07-11": 28,
       "2021-07-07": 25,
-      "2021-07-03": 22,
-      "2021-07-02": 33
+      "2021-07-03": 22
     }
   },
   {
