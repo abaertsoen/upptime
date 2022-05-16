@@ -6,9 +6,9 @@
     "slug": "brief-point",
     "status": "down",
     "uptime": "60.39%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "65.09%",
     "time": 2333,
     "timeDay": 8240,
@@ -16,7 +16,8 @@
     "timeMonth": 3187,
     "timeYear": 2648,
     "dailyMinutesDown": {
-      "2022-05-15": 1,
+      "2022-05-16": 72,
+      "2022-05-15": 12,
       "2022-05-02": 17,
       "2022-05-01": 46,
       "2022-04-29": 17,
@@ -162,8 +163,7 @@
       "2021-05-20": 1440,
       "2021-05-19": 1440,
       "2021-05-18": 1440,
-      "2021-05-17": 1440,
-      "2021-05-16": 1440
+      "2021-05-17": 1440
     }
   },
   {
@@ -209,10 +209,10 @@
     "icon": "https://favicons.githubusercontent.com/www.infochat.fr",
     "slug": "infochat",
     "status": "down",
-    "uptime": "53.91%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.51%",
+    "uptime": "53.90%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "56.37%",
     "time": 2868,
     "timeDay": 1766,
@@ -220,7 +220,8 @@
     "timeMonth": 2857,
     "timeYear": 3127,
     "dailyMinutesDown": {
-      "2022-05-15": 1,
+      "2022-05-16": 72,
+      "2022-05-15": 12,
       "2022-05-02": 16,
       "2022-05-01": 43,
       "2022-04-28": 126,
@@ -393,8 +394,7 @@
       "2021-05-20": 1440,
       "2021-05-19": 1440,
       "2021-05-18": 1440,
-      "2021-05-17": 1440,
-      "2021-05-16": 1440
+      "2021-05-17": 1440
     }
   },
   {
@@ -460,7 +460,7 @@
     "icon": "https://favicons.githubusercontent.com/petitgeste.fr",
     "slug": "petit-geste",
     "status": "down",
-    "uptime": "11.98%",
+    "uptime": "11.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -471,7 +471,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-15": 1429,
+      "2022-05-16": 72,
+      "2022-05-15": 1440,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
@@ -834,8 +835,7 @@
       "2021-05-20": 1440,
       "2021-05-19": 1440,
       "2021-05-18": 1440,
-      "2021-05-17": 1440,
-      "2021-05-16": 1440
+      "2021-05-17": 1440
     }
   },
   {
@@ -961,18 +961,19 @@
     "icon": "https://favicons.githubusercontent.com/yuudoku.jv360.fr",
     "slug": "shop-yuudoku",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.86%",
+    "uptimeDay": "92.83%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.89%",
     "time": 1418,
     "timeDay": 7610,
     "timeWeek": 3946,
     "timeMonth": 2191,
     "timeYear": 1368,
     "dailyMinutesDown": {
-      "2022-05-15": 20,
+      "2022-05-16": 72,
+      "2022-05-15": 31,
       "2022-05-05": 17,
       "2022-05-01": 24,
       "2022-04-28": 125,
