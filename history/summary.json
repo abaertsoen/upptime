@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.briefpoint.fr",
     "slug": "brief-point",
     "status": "up",
-    "uptime": "62.97%",
+    "uptime": "63.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "74.60%",
-    "time": 2565,
-    "timeDay": 3047,
-    "timeWeek": 2552,
-    "timeMonth": 2735,
-    "timeYear": 2644,
+    "uptimeYear": "74.87%",
+    "time": 2571,
+    "timeDay": 3079,
+    "timeWeek": 2724,
+    "timeMonth": 2782,
+    "timeYear": 2645,
     "dailyMinutesDown": {
       "2022-05-21": 50,
       "2022-05-19": 91,
@@ -131,8 +131,7 @@
       "2021-06-25": 1440,
       "2021-06-24": 1440,
       "2021-06-23": 1440,
-      "2021-06-22": 1440,
-      "2021-06-21": 1440
+      "2021-06-22": 1440
     }
   },
   {
@@ -146,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 641,
-    "timeDay": 746,
-    "timeWeek": 646,
-    "timeMonth": 622,
-    "timeYear": 643,
+    "time": 642,
+    "timeDay": 892,
+    "timeWeek": 700,
+    "timeMonth": 638,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2022-05-02": 16,
       "2022-05-01": 27,
@@ -176,15 +175,15 @@
     "icon": "https://favicons.githubusercontent.com/www.infochat.fr",
     "slug": "infochat",
     "status": "up",
-    "uptime": "56.93%",
+    "uptime": "57.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "65.90%",
-    "time": 2704,
-    "timeDay": 3584,
-    "timeWeek": 2532,
-    "timeMonth": 2686,
+    "uptimeYear": "66.17%",
+    "time": 2705,
+    "timeDay": 2946,
+    "timeWeek": 2728,
+    "timeMonth": 2730,
     "timeYear": 3052,
     "dailyMinutesDown": {
       "2022-05-21": 48,
@@ -328,8 +327,7 @@
       "2021-06-25": 1440,
       "2021-06-24": 1440,
       "2021-06-23": 1440,
-      "2021-06-22": 1440,
-      "2021-06-21": 1440
+      "2021-06-22": 1440
     }
   },
   {
@@ -343,11 +341,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 701,
-    "timeDay": 820,
-    "timeWeek": 617,
-    "timeMonth": 696,
-    "timeYear": 701,
+    "time": 702,
+    "timeDay": 878,
+    "timeWeek": 639,
+    "timeMonth": 705,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2022-05-17": 521,
       "2022-05-16": 171,
@@ -371,9 +369,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 779,
-    "timeDay": 902,
-    "timeWeek": 753,
-    "timeMonth": 743,
+    "timeDay": 889,
+    "timeWeek": 797,
+    "timeMonth": 757,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2022-05-02": 15,
@@ -396,7 +394,7 @@
     "icon": "https://favicons.githubusercontent.com/petitgeste.fr",
     "slug": "petit-geste",
     "status": "down",
-    "uptime": "11.18%",
+    "uptime": "11.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -407,7 +405,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-20": 78,
+      "2022-06-21": 76,
+      "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
       "2022-06-17": 1440,
@@ -770,8 +769,7 @@
       "2021-06-25": 1440,
       "2021-06-24": 1440,
       "2021-06-23": 1440,
-      "2021-06-22": 1440,
-      "2021-06-21": 1440
+      "2021-06-22": 1440
     }
   },
   {
@@ -785,11 +783,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 5008,
-    "timeDay": 2042,
-    "timeWeek": 1948,
-    "timeMonth": 1902,
-    "timeYear": 4818,
+    "time": 4988,
+    "timeDay": 2142,
+    "timeWeek": 1995,
+    "timeMonth": 1912,
+    "timeYear": 4817,
     "dailyMinutesDown": {
       "2022-05-09": 47,
       "2022-05-05": 19,
@@ -902,11 +900,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.85%",
-    "time": 1427,
-    "timeDay": 1297,
-    "timeWeek": 923,
-    "timeMonth": 1876,
-    "timeYear": 1348,
+    "time": 1428,
+    "timeDay": 982,
+    "timeWeek": 955,
+    "timeMonth": 1866,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2022-05-23": 43,
       "2022-05-21": 48,
@@ -924,8 +922,7 @@
       "2022-01-06": 20,
       "2022-01-05": 16,
       "2022-01-03": 24,
-      "2021-10-13": 71,
-      "2021-06-21": 40
+      "2021-10-13": 71
     }
   }
 ]
