@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.briefpoint.fr",
     "slug": "brief-point",
     "status": "up",
-    "uptime": "66.90%",
+    "uptime": "66.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.07%",
+    "uptimeWeek": "97.23%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "91.80%",
-    "time": 2705,
-    "timeDay": 7076,
-    "timeWeek": 4797,
-    "timeMonth": 3349,
-    "timeYear": 2705,
+    "uptimeYear": "92.08%",
+    "time": 2706,
+    "timeDay": 2991,
+    "timeWeek": 4943,
+    "timeMonth": 3343,
+    "timeYear": 2706,
     "dailyMinutesDown": {
       "2022-08-18": 223,
       "2022-08-17": 56,
@@ -71,8 +71,7 @@
       "2021-08-27": 1440,
       "2021-08-26": 1440,
       "2021-08-25": 1440,
-      "2021-08-24": 1440,
-      "2021-08-23": 1440
+      "2021-08-24": 1440
     }
   },
   {
@@ -86,10 +85,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 642,
-    "timeDay": 686,
-    "timeWeek": 683,
-    "timeMonth": 602,
+    "time": 641,
+    "timeDay": 646,
+    "timeWeek": 674,
+    "timeMonth": 597,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2022-05-02": 16,
@@ -114,15 +113,15 @@
     "icon": "https://favicons.githubusercontent.com/www.infochat.fr",
     "slug": "infochat",
     "status": "up",
-    "uptime": "61.50%",
+    "uptime": "61.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.17%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "83.10%",
-    "time": 2907,
-    "timeDay": 1673,
-    "timeWeek": 2028,
-    "timeMonth": 1993,
+    "uptimeYear": "83.38%",
+    "time": 2912,
+    "timeDay": 2690,
+    "timeWeek": 2023,
+    "timeMonth": 1990,
     "timeYear": 2972,
     "dailyMinutesDown": {
       "2022-08-18": 229,
@@ -206,8 +205,7 @@
       "2021-08-27": 1440,
       "2021-08-26": 1440,
       "2021-08-25": 1440,
-      "2021-08-24": 1440,
-      "2021-08-23": 1440
+      "2021-08-24": 1440
     }
   },
   {
@@ -222,9 +220,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 695,
-    "timeDay": 871,
-    "timeWeek": 830,
-    "timeMonth": 720,
+    "timeDay": 879,
+    "timeWeek": 814,
+    "timeMonth": 721,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2022-06-30": 83,
@@ -251,9 +249,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 760,
-    "timeDay": 870,
-    "timeWeek": 796,
-    "timeMonth": 719,
+    "timeDay": 814,
+    "timeWeek": 789,
+    "timeMonth": 714,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2022-05-02": 15,
@@ -275,7 +273,7 @@
     "icon": "https://favicons.githubusercontent.com/petitgeste.fr",
     "slug": "petit-geste",
     "status": "down",
-    "uptime": "9.98%",
+    "uptime": "9.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -286,7 +284,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-22": 80,
+      "2022-08-23": 101,
+      "2022-08-22": 1440,
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
@@ -649,8 +648,7 @@
       "2021-08-27": 1440,
       "2021-08-26": 1440,
       "2021-08-25": 1440,
-      "2021-08-24": 1440,
-      "2021-08-23": 1440
+      "2021-08-24": 1440
     }
   },
   {
@@ -663,12 +661,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
-    "time": 4622,
-    "timeDay": 935,
-    "timeWeek": 1283,
-    "timeMonth": 1767,
-    "timeYear": 4307,
+    "uptimeYear": "99.57%",
+    "time": 4607,
+    "timeDay": 928,
+    "timeWeek": 1077,
+    "timeMonth": 1728,
+    "timeYear": 4284,
     "dailyMinutesDown": {
       "2022-05-09": 47,
       "2022-05-05": 19,
@@ -750,8 +748,7 @@
       "2021-09-04": 40,
       "2021-09-01": 29,
       "2021-08-27": 27,
-      "2021-08-26": 44,
-      "2021-08-23": 32
+      "2021-08-26": 44
     }
   },
   {
@@ -765,11 +762,11 @@
     "uptimeWeek": "98.69%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.81%",
-    "time": 1393,
-    "timeDay": 1023,
-    "timeWeek": 1433,
+    "time": 1395,
+    "timeDay": 1939,
+    "timeWeek": 1429,
     "timeMonth": 1346,
-    "timeYear": 1355,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2022-08-18": 76,
       "2022-08-17": 56,
