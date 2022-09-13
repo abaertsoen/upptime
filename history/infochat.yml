@@ -1,7 +1,7 @@
 url: https://www.infochat.fr
-status: up
-code: 200
-responseTime: 2919
-lastUpdated: 2022-09-13T13:58:32.845Z
+status: down
+code: 503
+responseTime: 704
+lastUpdated: 2022-09-13T22:51:15.400Z
 startTime: Sun Jan 10 2021 07:12:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
