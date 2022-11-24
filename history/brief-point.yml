@@ -1,7 +1,7 @@
 url: https://www.briefpoint.fr
-status: up
-code: 200
-responseTime: 2373
-lastUpdated: 2022-11-23T23:19:27.874Z
+status: down
+code: 500
+responseTime: 1375
+lastUpdated: 2022-11-24T03:45:31.981Z
 startTime: Sun Jan 10 2021 07:12:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
