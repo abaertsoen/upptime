@@ -6,9 +6,9 @@
     "slug": "brief-point",
     "status": "up",
     "uptime": "76.57%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 3094,
     "timeDay": 2483,
@@ -16,7 +16,6 @@
     "timeMonth": 1968,
     "timeYear": 3155,
     "dailyMinutesDown": {
-      "2023-04-25": 6,
       "2023-01-12": 17,
       "2023-01-09": 16,
       "2023-01-07": 16,
@@ -98,13 +97,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.23%",
+    "uptimeYear": "57.22%",
     "time": 2704,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2513,
     "dailyMinutesDown": {
+      "2023-04-26": 60,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -330,9 +330,9 @@
     "slug": "musga",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 765,
     "timeDay": 716,
@@ -340,7 +340,6 @@
     "timeMonth": 701,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-04-25": 6,
       "2023-01-20": 15,
       "2022-12-26": 68,
       "2022-12-25": 24,
@@ -374,6 +373,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2023-04-26": 60,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -737,8 +737,7 @@
       "2022-04-30": 1440,
       "2022-04-29": 1440,
       "2022-04-28": 1440,
-      "2022-04-27": 1440,
-      "2022-04-26": 1440
+      "2022-04-27": 1440
     }
   },
   {
