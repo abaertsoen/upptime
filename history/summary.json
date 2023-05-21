@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "up",
-    "uptime": "77.22%",
+    "uptime": "77.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.69%",
     "time": 3072,
-    "timeDay": 2017,
-    "timeWeek": 1911,
-    "timeMonth": 1915,
-    "timeYear": 3099,
+    "timeDay": 2795,
+    "timeWeek": 1862,
+    "timeMonth": 1933,
+    "timeYear": 3102,
     "dailyMinutesDown": {
       "2023-05-10": 31,
       "2023-01-12": 17,
@@ -43,8 +43,7 @@
       "2022-09-11": 42,
       "2022-08-18": 223,
       "2022-08-17": 56,
-      "2022-08-15": 17,
-      "2022-05-21": 50
+      "2022-08-15": 17
     }
   },
   {
@@ -59,10 +58,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 640,
-    "timeDay": 678,
-    "timeWeek": 555,
-    "timeMonth": 581,
-    "timeYear": 634,
+    "timeDay": 750,
+    "timeWeek": 562,
+    "timeMonth": 583,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2023-05-10": 31,
       "2022-12-26": 68,
@@ -83,18 +82,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "52.75%",
+    "uptime": "52.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.74%",
-    "time": 2689,
+    "uptimeYear": "50.47%",
+    "time": 2687,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2506,
+    "timeYear": 2509,
     "dailyMinutesDown": {
-      "2023-05-20": 58,
+      "2023-05-21": 64,
+      "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -289,8 +289,7 @@
       "2022-08-28": 15,
       "2022-08-18": 229,
       "2022-08-17": 56,
-      "2022-08-07": 16,
-      "2022-05-21": 48
+      "2022-08-07": 16
     }
   },
   {
@@ -304,10 +303,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.53%",
-    "time": 713,
-    "timeDay": 881,
-    "timeWeek": 746,
-    "timeMonth": 731,
+    "time": 714,
+    "timeDay": 827,
+    "timeWeek": 741,
+    "timeMonth": 732,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2023-01-12": 22,
@@ -339,11 +338,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 766,
-    "timeDay": 840,
-    "timeWeek": 1776,
-    "timeMonth": 926,
-    "timeYear": 767,
+    "time": 767,
+    "timeDay": 940,
+    "timeWeek": 1778,
+    "timeMonth": 928,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2023-05-10": 30,
       "2023-01-20": 15,
@@ -377,7 +376,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 58,
+      "2023-05-21": 64,
+      "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -740,8 +740,7 @@
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
-      "2022-05-22": 1440,
-      "2022-05-21": 1440
+      "2022-05-22": 1440
     }
   },
   {
@@ -755,11 +754,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.94%",
-    "time": 1849,
-    "timeDay": 994,
-    "timeWeek": 825,
-    "timeMonth": 1190,
-    "timeYear": 1291,
+    "time": 1847,
+    "timeDay": 1060,
+    "timeWeek": 849,
+    "timeMonth": 1193,
+    "timeYear": 1289,
     "dailyMinutesDown": {
       "2023-05-10": 30,
       "2023-04-29": 24,
@@ -785,11 +784,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.82%",
-    "time": 1276,
-    "timeDay": 679,
-    "timeWeek": 569,
-    "timeMonth": 796,
-    "timeYear": 1150,
+    "time": 1275,
+    "timeDay": 673,
+    "timeWeek": 573,
+    "timeMonth": 795,
+    "timeYear": 1148,
     "dailyMinutesDown": {
       "2023-04-29": 24,
       "2023-01-20": 15,
@@ -805,8 +804,7 @@
       "2022-08-17": 56,
       "2022-06-30": 83,
       "2022-06-21": 16,
-      "2022-05-23": 43,
-      "2022-05-21": 48
+      "2022-05-23": 43
     }
   }
 ]
