@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "up",
-    "uptime": "79.33%",
+    "uptime": "79.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.68%",
-    "time": 2999,
-    "timeDay": 1336,
-    "timeWeek": 4392,
-    "timeMonth": 2775,
-    "timeYear": 3072,
+    "time": 2998,
+    "timeDay": 1794,
+    "timeWeek": 4426,
+    "timeMonth": 2768,
+    "timeYear": 3070,
     "dailyMinutesDown": {
       "2023-08-14": 52,
       "2023-08-11": 18,
@@ -45,8 +45,7 @@
       "2022-09-13": 120,
       "2022-09-12": 79,
       "2022-09-11": 42,
-      "2022-08-18": 223,
-      "2022-08-17": 56
+      "2022-08-18": 223
     }
   },
   {
@@ -61,9 +60,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.93%",
     "time": 636,
-    "timeDay": 484,
-    "timeWeek": 640,
-    "timeMonth": 656,
+    "timeDay": 788,
+    "timeWeek": 671,
+    "timeMonth": 660,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2023-08-14": 52,
@@ -88,18 +87,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "47.85%",
+    "uptime": "47.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.62%",
+    "uptimeYear": "26.37%",
     "time": 2550,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2423,
+    "timeYear": 2424,
     "dailyMinutesDown": {
-      "2023-08-16": 215,
+      "2023-08-17": 48,
+      "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
@@ -380,8 +380,7 @@
       "2022-09-12": 314,
       "2022-09-11": 6,
       "2022-08-28": 15,
-      "2022-08-18": 229,
-      "2022-08-17": 56
+      "2022-08-18": 229
     }
   },
   {
@@ -396,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.55%",
     "time": 707,
-    "timeDay": 588,
-    "timeWeek": 615,
-    "timeMonth": 679,
+    "timeDay": 840,
+    "timeWeek": 656,
+    "timeMonth": 681,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2023-01-12": 22,
@@ -429,9 +428,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.92%",
     "time": 755,
-    "timeDay": 635,
-    "timeWeek": 688,
-    "timeMonth": 701,
+    "timeDay": 823,
+    "timeWeek": 708,
+    "timeMonth": 704,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2023-08-14": 52,
@@ -458,7 +457,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/petitgeste.fr.ico",
     "slug": "petit-geste",
     "status": "down",
-    "uptime": "6.20%",
+    "uptime": "6.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -469,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-16": 215,
+      "2023-08-17": 48,
+      "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
@@ -832,8 +832,7 @@
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
-      "2022-08-18": 1440,
-      "2022-08-17": 1440
+      "2022-08-18": 1440
     }
   },
   {
@@ -842,18 +841,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/aishy.fr.ico",
     "slug": "shop-aishy",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.55%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.91%",
-    "time": 1354,
-    "timeDay": 3934,
-    "timeWeek": 2146,
-    "timeMonth": 1280,
-    "timeYear": 1110,
+    "time": 1352,
+    "timeDay": 1001,
+    "timeWeek": 2165,
+    "timeMonth": 1281,
+    "timeYear": 1107,
     "dailyMinutesDown": {
-      "2023-08-16": 6,
       "2023-08-14": 172,
       "2023-08-12": 18,
       "2023-05-10": 30,
@@ -880,11 +878,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1159,
-    "timeDay": 2014,
-    "timeWeek": 1194,
+    "time": 1158,
+    "timeDay": 667,
+    "timeWeek": 1117,
     "timeMonth": 996,
-    "timeYear": 1008,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2023-04-29": 24,
       "2023-01-20": 15,
@@ -896,8 +894,7 @@
       "2022-09-13": 93,
       "2022-09-12": 189,
       "2022-09-11": 25,
-      "2022-08-18": 76,
-      "2022-08-17": 56
+      "2022-08-18": 76
     }
   }
 ]
