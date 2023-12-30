@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "up",
-    "uptime": "81.89%",
+    "uptime": "81.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 2337,
-    "timeDay": 911,
-    "timeWeek": 1028,
-    "timeMonth": 1242,
-    "timeYear": 1934,
+    "time": 2334,
+    "timeDay": 726,
+    "timeWeek": 1034,
+    "timeMonth": 1245,
+    "timeYear": 1935,
     "dailyMinutesDown": {
       "2023-12-23": 17,
       "2023-11-28": 18,
@@ -29,8 +29,7 @@
       "2023-05-10": 31,
       "2023-01-12": 17,
       "2023-01-09": 16,
-      "2023-01-07": 16,
-      "2022-12-30": 43
+      "2023-01-07": 16
     }
   },
   {
@@ -44,9 +43,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 699,
-    "timeDay": 720,
-    "timeWeek": 1132,
+    "time": 698,
+    "timeDay": 370,
+    "timeWeek": 1118,
     "timeMonth": 967,
     "timeYear": 707,
     "dailyMinutesDown": {
@@ -64,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "41.89%",
+    "uptime": "41.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -73,9 +72,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1966,
+    "timeYear": 1969,
     "dailyMinutesDown": {
-      "2023-12-29": 44,
+      "2023-12-30": 53,
+      "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -438,8 +438,7 @@
       "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
-      "2022-12-31": 1440,
-      "2022-12-30": 1440
+      "2022-12-31": 1440
     }
   },
   {
@@ -454,9 +453,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 723,
-    "timeDay": 907,
-    "timeWeek": 788,
-    "timeMonth": 794,
+    "timeDay": 651,
+    "timeWeek": 804,
+    "timeMonth": 796,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2023-11-05": 565,
@@ -476,9 +475,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 807,
-    "timeDay": 839,
-    "timeWeek": 668,
-    "timeMonth": 679,
+    "timeDay": 541,
+    "timeWeek": 687,
+    "timeMonth": 678,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2023-11-02": 19,
@@ -495,7 +494,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/petitgeste.fr.ico",
     "slug": "petit-geste",
     "status": "down",
-    "uptime": "5.43%",
+    "uptime": "5.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -506,7 +505,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-29": 44,
+      "2023-12-30": 53,
+      "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -869,8 +869,7 @@
       "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
-      "2022-12-31": 1440,
-      "2022-12-30": 1440
+      "2022-12-31": 1440
     }
   },
   {
@@ -885,9 +884,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
     "time": 1108,
-    "timeDay": 949,
-    "timeWeek": 844,
-    "timeMonth": 803,
+    "timeDay": 616,
+    "timeWeek": 812,
+    "timeMonth": 804,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2023-12-08": 83,
@@ -916,10 +915,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1100,
-    "timeDay": 674,
-    "timeWeek": 623,
-    "timeMonth": 939,
+    "time": 1094,
+    "timeDay": 461,
+    "timeWeek": 632,
+    "timeMonth": 942,
     "timeYear": 961,
     "dailyMinutesDown": {
       "2023-04-29": 24,
