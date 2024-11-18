@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 1458,
-    "timeDay": 767,
-    "timeWeek": 867,
-    "timeMonth": 1187,
+    "time": 1457,
+    "timeDay": 673,
+    "timeWeek": 825,
+    "timeMonth": 1169,
     "timeYear": 1486,
     "dailyMinutesDown": {
       "2024-10-15": 43,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
-    "time": 891,
-    "timeDay": 457,
-    "timeWeek": 656,
-    "timeMonth": 729,
-    "timeYear": 912,
+    "time": 890,
+    "timeDay": 400,
+    "timeWeek": 599,
+    "timeMonth": 717,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2024-10-15": 36,
       "2024-10-14": 34,
@@ -117,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "32.24%",
+    "uptime": "32.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -128,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-17": 77,
+      "2024-11-18": 75,
+      "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
@@ -491,8 +492,7 @@
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
-      "2023-11-20": 1440,
-      "2023-11-19": 1440
+      "2023-11-20": 1440
     }
   },
   {
@@ -507,9 +507,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 772,
-    "timeDay": 733,
-    "timeWeek": 868,
-    "timeMonth": 851,
+    "timeDay": 538,
+    "timeWeek": 799,
+    "timeMonth": 834,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2024-06-14": 86,
@@ -528,10 +528,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 1004,
-    "timeDay": 645,
-    "timeWeek": 790,
-    "timeMonth": 770,
-    "timeYear": 1001,
+    "timeDay": 574,
+    "timeWeek": 736,
+    "timeMonth": 758,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2024-10-15": 36,
       "2024-10-14": 35,
@@ -570,7 +570,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/petitgeste.fr.ico",
     "slug": "petit-geste",
     "status": "down",
-    "uptime": "4.18%",
+    "uptime": "4.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -581,7 +581,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-17": 77,
+      "2024-11-18": 75,
+      "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
@@ -944,8 +945,7 @@
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
-      "2023-11-20": 1440,
-      "2023-11-19": 1440
+      "2023-11-20": 1440
     }
   },
   {
@@ -960,9 +960,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
     "time": 1194,
-    "timeDay": 623,
-    "timeWeek": 911,
-    "timeMonth": 1000,
+    "timeDay": 777,
+    "timeWeek": 871,
+    "timeMonth": 987,
     "timeYear": 1194,
     "dailyMinutesDown": {
       "2024-10-15": 42,
@@ -1016,9 +1016,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 1683,
-    "timeDay": 537,
-    "timeWeek": 776,
-    "timeMonth": 1071,
+    "timeDay": 508,
+    "timeWeek": 724,
+    "timeMonth": 1059,
     "timeYear": 1790,
     "dailyMinutesDown": {
       "2024-10-15": 21,
