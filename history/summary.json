@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.87%",
+    "uptimeYear": "86.86%",
     "time": 1430,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1449,
     "dailyMinutesDown": {
-      "2025-02-24": 72,
+      "2025-02-24": 157,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
@@ -167,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-24": 72,
+      "2025-02-24": 157,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
@@ -539,10 +539,10 @@
     "url": "https://jv360.fr",
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 786,
@@ -551,6 +551,7 @@
     "timeMonth": 782,
     "timeYear": 784,
     "dailyMinutesDown": {
+      "2025-02-24": 1,
       "2024-06-14": 86
     }
   },
@@ -618,7 +619,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-24": 72,
+      "2025-02-24": 157,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
