@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "88.11%",
+    "uptime": "88.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.66%",
-    "time": 1534,
+    "uptimeYear": "46.39%",
+    "time": 1536,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1540,
+    "timeYear": 1544,
     "dailyMinutesDown": {
-      "2025-07-21": 102,
+      "2025-07-22": 88,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -232,8 +233,7 @@
       "2024-08-01": 291,
       "2024-07-31": 632,
       "2024-07-26": 23,
-      "2024-07-25": 34,
-      "2024-07-22": 18
+      "2024-07-25": 34
     }
   },
   {
@@ -248,9 +248,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.47%",
     "time": 763,
-    "timeDay": 506,
-    "timeWeek": 600,
-    "timeMonth": 614,
+    "timeDay": 493,
+    "timeWeek": 569,
+    "timeMonth": 611,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2025-07-11": 24,
@@ -296,7 +296,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "27.44%",
+    "uptime": "27.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -307,7 +307,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 102,
+      "2025-07-22": 88,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -670,8 +671,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -680,18 +680,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "down",
-    "uptime": "90.45%",
+    "uptime": "90.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.74%",
-    "time": 5191,
-    "timeDay": 19572,
-    "timeWeek": 19646,
-    "timeMonth": 19725,
-    "timeYear": 6958,
+    "uptimeYear": "59.47%",
+    "time": 5233,
+    "timeDay": 19630,
+    "timeWeek": 19618,
+    "timeMonth": 19720,
+    "timeYear": 7016,
     "dailyMinutesDown": {
-      "2025-07-21": 102,
+      "2025-07-22": 88,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -853,9 +854,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.49%",
     "time": 911,
-    "timeDay": 583,
-    "timeWeek": 718,
-    "timeMonth": 733,
+    "timeDay": 593,
+    "timeWeek": 684,
+    "timeMonth": 731,
     "timeYear": 917,
     "dailyMinutesDown": {
       "2025-07-11": 23,
@@ -900,7 +901,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/petitgeste.fr.ico",
     "slug": "petit-geste",
     "status": "down",
-    "uptime": "3.56%",
+    "uptime": "3.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -911,7 +912,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 102,
+      "2025-07-22": 88,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -1274,8 +1276,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -1290,9 +1291,9 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.44%",
     "time": 1104,
-    "timeDay": 915,
-    "timeWeek": 867,
-    "timeMonth": 857,
+    "timeDay": 695,
+    "timeWeek": 858,
+    "timeMonth": 859,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2025-07-18": 43,
@@ -1349,11 +1350,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.52%",
-    "time": 2046,
-    "timeDay": 574,
-    "timeWeek": 3639,
-    "timeMonth": 2615,
-    "timeYear": 2207,
+    "time": 2066,
+    "timeDay": 12806,
+    "timeWeek": 4837,
+    "timeMonth": 2717,
+    "timeYear": 2233,
     "dailyMinutesDown": {
       "2025-07-10": 82,
       "2025-07-09": 16,
@@ -1380,8 +1381,7 @@
       "2024-08-01": 306,
       "2024-07-31": 623,
       "2024-07-26": 28,
-      "2024-07-25": 18,
-      "2024-07-22": 16
+      "2024-07-25": 18
     }
   }
 ]
