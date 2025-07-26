@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.33%",
+    "uptimeYear": "45.32%",
     "time": 1536,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1504,
     "dailyMinutesDown": {
-      "2025-07-25": 1434,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -308,7 +308,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-25": 1434,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -692,7 +692,7 @@
     "timeMonth": 19740,
     "timeYear": 7248,
     "dailyMinutesDown": {
-      "2025-07-25": 1434,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -915,7 +915,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-25": 1434,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -1287,19 +1287,19 @@
     "url": "https://aishy.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aishy.fr.ico",
     "slug": "shop-aishy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "95.38%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.41%",
-    "time": 1096,
-    "timeDay": 730,
-    "timeWeek": 778,
-    "timeMonth": 832,
-    "timeYear": 1016,
+    "time": 1097,
+    "timeDay": 802,
+    "timeWeek": 796,
+    "timeMonth": 837,
+    "timeYear": 1017,
     "dailyMinutesDown": {
-      "2025-07-25": 66,
+      "2025-07-25": 72,
       "2025-07-24": 41,
       "2025-07-22": 26,
       "2025-07-18": 43,
@@ -1385,8 +1385,7 @@
       "2024-08-12": 24,
       "2024-08-10": 16,
       "2024-08-01": 306,
-      "2024-07-31": 623,
-      "2024-07-26": 28
+      "2024-07-31": 623
     }
   }
 ]
