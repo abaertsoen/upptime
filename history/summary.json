@@ -9,13 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.32%",
+    "uptimeYear": "45.31%",
     "time": 1536,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1504,
     "dailyMinutesDown": {
+      "2025-07-26": 79,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -234,8 +235,7 @@
       "2024-08-12": 25,
       "2024-08-09": 25,
       "2024-08-01": 291,
-      "2024-07-31": 632,
-      "2024-07-26": 23
+      "2024-07-31": 632
     }
   },
   {
@@ -243,18 +243,19 @@
     "url": "https://dreamension.fr",
     "icon": "https://icons.duckduckgo.com/ip3/dreamension.fr.ico",
     "slug": "dreamension",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.47%",
     "time": 763,
-    "timeDay": 435,
-    "timeWeek": 509,
-    "timeMonth": 597,
+    "timeDay": 563,
+    "timeWeek": 527,
+    "timeMonth": 600,
     "timeYear": 774,
     "dailyMinutesDown": {
+      "2025-07-26": 2,
       "2025-07-11": 24,
       "2025-07-10": 26,
       "2025-06-17": 22,
@@ -287,8 +288,7 @@
       "2024-08-12": 25,
       "2024-08-09": 19,
       "2024-08-01": 291,
-      "2024-07-31": 632,
-      "2024-07-26": 22
+      "2024-07-31": 632
     }
   },
   {
@@ -308,6 +308,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2025-07-26": 79,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -671,8 +672,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -685,13 +685,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.39%",
+    "uptimeYear": "58.37%",
     "time": 5399,
     "timeDay": 19694,
     "timeWeek": 19625,
     "timeMonth": 19740,
     "timeYear": 7248,
     "dailyMinutesDown": {
+      "2025-07-26": 80,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -851,18 +852,19 @@
     "url": "https://musga.fr",
     "icon": "https://icons.duckduckgo.com/ip3/musga.fr.ico",
     "slug": "musga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.49%",
     "time": 906,
     "timeDay": 573,
     "timeWeek": 576,
-    "timeMonth": 708,
+    "timeMonth": 704,
     "timeYear": 900,
     "dailyMinutesDown": {
+      "2025-07-26": 1,
       "2025-07-11": 23,
       "2025-07-10": 26,
       "2025-07-08": 36,
@@ -894,8 +896,7 @@
       "2024-08-17": 27,
       "2024-08-12": 37,
       "2024-08-01": 291,
-      "2024-07-31": 630,
-      "2024-07-26": 22
+      "2024-07-31": 630
     }
   },
   {
@@ -915,6 +916,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2025-07-26": 80,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -1278,8 +1280,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -1287,19 +1288,20 @@
     "url": "https://aishy.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aishy.fr.ico",
     "slug": "shop-aishy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "94.98%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "95.38%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.41%",
     "time": 1097,
-    "timeDay": 802,
-    "timeWeek": 796,
-    "timeMonth": 837,
-    "timeYear": 1017,
+    "timeDay": 791,
+    "timeWeek": 793,
+    "timeMonth": 836,
+    "timeYear": 1016,
     "dailyMinutesDown": {
-      "2025-07-25": 72,
+      "2025-07-26": 0,
+      "2025-07-25": 66,
       "2025-07-24": 41,
       "2025-07-22": 26,
       "2025-07-18": 43,
@@ -1341,8 +1343,7 @@
       "2024-08-12": 25,
       "2024-08-10": 23,
       "2024-08-01": 287,
-      "2024-07-31": 625,
-      "2024-07-26": 16
+      "2024-07-31": 625
     }
   },
   {
@@ -1350,18 +1351,19 @@
     "url": "https://yuudoku.jv360.fr",
     "icon": "https://icons.duckduckgo.com/ip3/yuudoku.jv360.fr.ico",
     "slug": "shop-yuudoku",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.53%",
-    "time": 2133,
-    "timeDay": 419,
-    "timeWeek": 1920,
-    "timeMonth": 2639,
-    "timeYear": 2115,
+    "time": 2125,
+    "timeDay": 501,
+    "timeWeek": 1786,
+    "timeMonth": 2591,
+    "timeYear": 2112,
     "dailyMinutesDown": {
+      "2025-07-26": 0,
       "2025-07-10": 82,
       "2025-07-09": 16,
       "2025-07-07": 24,
