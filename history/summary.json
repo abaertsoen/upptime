@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "87.13%",
+    "uptime": "87.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.76%",
+    "uptimeYear": "41.65%",
     "time": 1540,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1525,
+    "timeYear": 1529,
     "dailyMinutesDown": {
-      "2025-08-08": 961,
+      "2025-08-09": 83,
+      "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
@@ -245,8 +246,7 @@
       "2024-08-21": 44,
       "2024-08-17": 28,
       "2024-08-13": 19,
-      "2024-08-12": 25,
-      "2024-08-09": 25
+      "2024-08-12": 25
     }
   },
   {
@@ -261,9 +261,9 @@
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.56%",
     "time": 765,
-    "timeDay": 819,
-    "timeWeek": 643,
-    "timeMonth": 592,
+    "timeDay": 528,
+    "timeWeek": 618,
+    "timeMonth": 590,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2025-07-26": 456,
@@ -296,8 +296,7 @@
       "2024-08-21": 39,
       "2024-08-17": 28,
       "2024-08-13": 25,
-      "2024-08-12": 25,
-      "2024-08-09": 19
+      "2024-08-12": 25
     }
   },
   {
@@ -306,7 +305,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "27.14%",
+    "uptime": "27.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -317,7 +316,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-08": 961,
+      "2025-08-09": 83,
+      "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
@@ -680,8 +680,7 @@
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
-      "2024-08-10": 1440,
-      "2024-08-09": 1440
+      "2024-08-10": 1440
     }
   },
   {
@@ -690,18 +689,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "down",
-    "uptime": "89.45%",
+    "uptime": "89.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.64%",
-    "time": 5938,
-    "timeDay": 19740,
-    "timeWeek": 19603,
-    "timeMonth": 19666,
-    "timeYear": 8001,
+    "uptimeYear": "54.53%",
+    "time": 5979,
+    "timeDay": 19619,
+    "timeWeek": 19608,
+    "timeMonth": 19661,
+    "timeYear": 8059,
     "dailyMinutesDown": {
-      "2025-08-08": 961,
+      "2025-08-09": 83,
+      "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
@@ -880,10 +880,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "99.58%",
-    "time": 889,
-    "timeDay": 956,
-    "timeWeek": 733,
-    "timeMonth": 698,
+    "time": 888,
+    "timeDay": 500,
+    "timeWeek": 684,
+    "timeMonth": 694,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2025-07-26": 442,
@@ -936,7 +936,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-08": 961,
+      "2025-08-09": 83,
+      "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
@@ -1299,8 +1300,7 @@
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
-      "2024-08-10": 1440,
-      "2024-08-09": 1440
+      "2024-08-10": 1440
     }
   },
   {
@@ -1310,17 +1310,17 @@
     "slug": "shop-aishy",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "87.09%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "97.15%",
+    "uptimeDay": "91.53%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "97.17%",
     "uptimeYear": "99.43%",
     "time": 1060,
-    "timeDay": 859,
-    "timeWeek": 815,
+    "timeDay": 808,
+    "timeWeek": 804,
     "timeMonth": 821,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2025-08-08": 152,
+      "2025-08-08": 143,
       "2025-08-07": 35,
       "2025-08-06": 42,
       "2025-07-31": 101,
@@ -1382,9 +1382,9 @@
     "uptimeMonth": "98.77%",
     "uptimeYear": "99.63%",
     "time": 2171,
-    "timeDay": 932,
-    "timeWeek": 2150,
-    "timeMonth": 2579,
+    "timeDay": 470,
+    "timeWeek": 2118,
+    "timeMonth": 2577,
     "timeYear": 2170,
     "dailyMinutesDown": {
       "2025-07-26": 442,
