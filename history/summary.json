@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "79.22%",
+    "uptime": "79.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-22": 631,
+      "2026-01-23": 87,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -379,8 +380,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
@@ -390,13 +390,13 @@
     "slug": "dreamension",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "97.93%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "98.52%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.48%",
     "time": 673,
-    "timeDay": 591,
-    "timeWeek": 634,
+    "timeDay": 607,
+    "timeWeek": 642,
     "timeMonth": 645,
     "timeYear": 626,
     "dailyMinutesDown": {
@@ -468,8 +468,7 @@
       "2025-03-16": 88,
       "2025-03-11": 16,
       "2025-03-07": 31,
-      "2025-02-17": 19,
-      "2025-01-23": 43
+      "2025-02-17": 19
     }
   },
   {
@@ -489,7 +488,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-22": 631,
+      "2026-01-23": 87,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -852,8 +852,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
@@ -862,18 +861,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "down",
-    "uptime": "81.33%",
+    "uptime": "81.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.95%",
-    "time": 12828,
-    "timeDay": 19577,
-    "timeWeek": 20036,
-    "timeMonth": 19735,
-    "timeYear": 17742,
+    "uptimeYear": "8.78%",
+    "time": 12870,
+    "timeDay": 19611,
+    "timeWeek": 20043,
+    "timeMonth": 19728,
+    "timeYear": 17800,
     "dailyMinutesDown": {
-      "2026-01-22": 631,
+      "2026-01-23": 88,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -1215,15 +1215,15 @@
     "slug": "musga",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "98.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.82%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "99.53%",
     "time": 742,
-    "timeDay": 697,
-    "timeWeek": 732,
-    "timeMonth": 703,
-    "timeYear": 748,
+    "timeDay": 692,
+    "timeWeek": 730,
+    "timeMonth": 702,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2026-01-21": 22,
       "2026-01-20": 26,
@@ -1289,8 +1289,7 @@
       "2025-04-17": 31,
       "2025-03-11": 15,
       "2025-03-07": 30,
-      "2025-02-17": 18,
-      "2025-01-23": 42
+      "2025-02-17": 18
     }
   },
   {
@@ -1310,7 +1309,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-22": 631,
+      "2026-01-23": 88,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -1673,8 +1673,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
@@ -1684,13 +1683,13 @@
     "slug": "shop-aishy",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "98.09%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "98.69%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "93.02%",
-    "time": 776,
-    "timeDay": 589,
-    "timeWeek": 623,
+    "time": 775,
+    "timeDay": 618,
+    "timeWeek": 625,
     "timeMonth": 607,
     "timeYear": 764,
     "dailyMinutesDown": {
@@ -1803,15 +1802,15 @@
     "slug": "shop-yuudoku",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "98.34%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "99.52%",
     "time": 2105,
-    "timeDay": 725,
-    "timeWeek": 1534,
-    "timeMonth": 2218,
-    "timeYear": 2193,
+    "timeDay": 569,
+    "timeWeek": 1649,
+    "timeMonth": 2178,
+    "timeYear": 2192,
     "dailyMinutesDown": {
       "2026-01-22": 29,
       "2026-01-21": 22,
@@ -1871,8 +1870,7 @@
       "2025-07-07": 24,
       "2025-06-17": 22,
       "2025-04-17": 31,
-      "2025-01-26": 16,
-      "2025-01-23": 22
+      "2025-01-26": 16
     }
   }
 ]
