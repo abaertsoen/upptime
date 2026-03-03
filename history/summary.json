@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "77.56%",
+    "uptime": "77.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 954,
+    "time": 952,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-02": 1266,
+      "2026-03-03": 0,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -379,8 +380,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -388,19 +388,20 @@
     "url": "https://dreamension.fr",
     "icon": "https://icons.duckduckgo.com/ip3/dreamension.fr.ico",
     "slug": "dreamension",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "92.94%",
-    "uptimeMonth": "94.66%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "92.92%",
+    "uptimeMonth": "94.65%",
     "uptimeYear": "99.27%",
     "time": 627,
-    "timeDay": 613,
-    "timeWeek": 666,
-    "timeMonth": 653,
+    "timeDay": 693,
+    "timeWeek": 677,
+    "timeMonth": 655,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2026-03-02": 57,
+      "2026-03-03": 0,
+      "2026-03-02": 59,
       "2026-03-01": 74,
       "2026-02-28": 63,
       "2026-02-27": 64,
@@ -463,7 +464,7 @@
       "2025-12-07": 17,
       "2025-12-06": 24,
       "2025-12-05": 29,
-      "2025-12-03": 60
+      "2025-12-03": 24
     }
   },
   {
@@ -472,7 +473,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "24.16%",
+    "uptime": "24.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -483,7 +484,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-02": 1266,
+      "2026-03-03": 0,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -846,8 +848,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -861,13 +862,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 14444,
-    "timeDay": 19540,
-    "timeWeek": 19582,
-    "timeMonth": 19679,
+    "time": 14486,
+    "timeDay": 19754,
+    "timeWeek": 19642,
+    "timeMonth": 19685,
     "timeYear": 19671,
     "dailyMinutesDown": {
-      "2026-03-02": 1266,
+      "2026-03-03": 0,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -1230,8 +1232,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -1239,19 +1240,20 @@
     "url": "https://musga.fr",
     "icon": "https://icons.duckduckgo.com/ip3/musga.fr.ico",
     "slug": "musga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "92.96%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "92.94%",
     "uptimeMonth": "94.77%",
     "uptimeYear": "99.28%",
     "time": 742,
-    "timeDay": 728,
-    "timeWeek": 754,
-    "timeMonth": 716,
+    "timeDay": 775,
+    "timeWeek": 757,
+    "timeMonth": 718,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2026-03-02": 56,
+      "2026-03-03": 0,
+      "2026-03-02": 57,
       "2026-03-01": 74,
       "2026-02-28": 62,
       "2026-02-27": 65,
@@ -1313,7 +1315,7 @@
       "2025-12-07": 17,
       "2025-12-06": 24,
       "2025-12-05": 29,
-      "2025-12-03": 95
+      "2025-12-03": 80
     }
   },
   {
@@ -1333,7 +1335,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-02": 1267,
+      "2026-03-03": 1,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -1696,8 +1699,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -1705,18 +1707,19 @@
     "url": "https://aishy.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aishy.fr.ico",
     "slug": "shop-aishy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "92.97%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "92.96%",
     "uptimeMonth": "94.78%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 751,
-    "timeDay": 653,
-    "timeWeek": 634,
-    "timeMonth": 655,
+    "timeDay": 691,
+    "timeWeek": 637,
+    "timeMonth": 656,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2026-03-03": 1,
       "2026-03-02": 55,
       "2026-03-01": 74,
       "2026-02-28": 62,
@@ -1779,7 +1782,7 @@
       "2025-12-07": 17,
       "2025-12-06": 24,
       "2025-12-05": 29,
-      "2025-12-03": 95
+      "2025-12-03": 80
     }
   },
   {
@@ -1787,18 +1790,19 @@
     "url": "https://yuudoku.jv360.fr",
     "icon": "https://icons.duckduckgo.com/ip3/yuudoku.jv360.fr.ico",
     "slug": "shop-yuudoku",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "93.19%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "93.18%",
     "uptimeMonth": "94.83%",
     "uptimeYear": "99.28%",
     "time": 2156,
-    "timeDay": 612,
-    "timeWeek": 1937,
-    "timeMonth": 2635,
-    "timeYear": 2255,
+    "timeDay": 647,
+    "timeWeek": 1448,
+    "timeMonth": 2619,
+    "timeYear": 2253,
     "dailyMinutesDown": {
+      "2026-03-03": 1,
       "2026-03-02": 33,
       "2026-03-01": 74,
       "2026-02-28": 62,
@@ -1861,8 +1865,7 @@
       "2025-12-07": 17,
       "2025-12-06": 25,
       "2025-12-05": 29,
-      "2025-12-03": 96,
-      "2025-12-02": 26
+      "2025-12-03": 96
     }
   }
 ]
