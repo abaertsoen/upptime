@@ -1,7 +1,7 @@
 url: https://musga.fr
-status: up
-code: 200
-responseTime: 663
-lastUpdated: 2026-03-22T05:12:06.544Z
+status: down
+code: 415
+responseTime: 700
+lastUpdated: 2026-03-22T09:39:05.723Z
 startTime: 2021-01-10T07:12:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
