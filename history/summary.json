@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "76.29%",
+    "uptime": "76.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 804,
+    "time": 806,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-03": 126,
+      "2026-04-04": 118,
+      "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -379,8 +380,7 @@
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
-      "2025-04-05": 1440,
-      "2025-04-04": 1440
+      "2025-04-05": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "96.47%",
     "uptimeYear": "99.09%",
     "time": 629,
-    "timeDay": 498,
-    "timeWeek": 614,
-    "timeMonth": 648,
+    "timeDay": 696,
+    "timeWeek": 633,
+    "timeMonth": 650,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2026-04-01": 80,
@@ -468,7 +468,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "23.76%",
+    "uptime": "23.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -479,7 +479,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-03": 126,
+      "2026-04-04": 119,
+      "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -842,8 +843,7 @@
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
-      "2025-04-05": 1440,
-      "2025-04-04": 1440
+      "2025-04-05": 1440
     }
   },
   {
@@ -852,18 +852,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "down",
-    "uptime": "78.32%",
+    "uptime": "78.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 15693,
-    "timeDay": 19671,
-    "timeWeek": 19585,
-    "timeMonth": 19606,
-    "timeYear": 19666,
+    "time": 15735,
+    "timeDay": 19607,
+    "timeWeek": 19584,
+    "timeMonth": 19597,
+    "timeYear": 19667,
     "dailyMinutesDown": {
-      "2026-04-03": 126,
+      "2026-04-04": 119,
+      "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -1226,8 +1227,7 @@
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
-      "2025-04-05": 1440,
-      "2025-04-04": 1440
+      "2025-04-05": 1440
     }
   },
   {
@@ -1242,9 +1242,9 @@
     "uptimeMonth": "96.48%",
     "uptimeYear": "99.10%",
     "time": 741,
-    "timeDay": 573,
-    "timeWeek": 682,
-    "timeMonth": 726,
+    "timeDay": 1231,
+    "timeWeek": 740,
+    "timeMonth": 732,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2026-04-01": 80,
@@ -1326,7 +1326,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-03": 127,
+      "2026-04-04": 119,
+      "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -1689,8 +1690,7 @@
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
-      "2025-04-05": 1440,
-      "2025-04-04": 1440
+      "2025-04-05": 1440
     }
   },
   {
@@ -1705,9 +1705,9 @@
     "uptimeMonth": "96.49%",
     "uptimeYear": "99.10%",
     "time": 735,
-    "timeDay": 550,
-    "timeWeek": 565,
-    "timeMonth": 621,
+    "timeDay": 527,
+    "timeWeek": 569,
+    "timeMonth": 622,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2026-04-01": 80,
@@ -1784,10 +1784,10 @@
     "uptimeMonth": "96.57%",
     "uptimeYear": "99.10%",
     "time": 2316,
-    "timeDay": 12639,
-    "timeWeek": 4520,
-    "timeMonth": 3269,
-    "timeYear": 2348,
+    "timeDay": 578,
+    "timeWeek": 2946,
+    "timeMonth": 3140,
+    "timeYear": 2347,
     "dailyMinutesDown": {
       "2026-04-01": 80,
       "2026-03-28": 61,
