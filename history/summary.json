@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "73.78%",
+    "uptime": "73.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 24,
+      "2026-06-07": 219,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -481,7 +481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 24,
+      "2026-06-07": 219,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -857,8 +857,8 @@
     "uptime": "76.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.09%",
-    "uptimeYear": "6.17%",
+    "uptimeMonth": "72.54%",
+    "uptimeYear": "6.20%",
     "time": 17410,
     "timeDay": 297,
     "timeWeek": 385,
@@ -1307,7 +1307,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 24,
+      "2026-06-07": 219,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -1680,11 +1680,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aishy.fr.ico",
     "slug": "shop-aishy",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "81.92%",
-    "uptimeMonth": "93.38%",
-    "uptimeYear": "98.66%",
+    "uptime": "99.74%",
+    "uptimeDay": "86.41%",
+    "uptimeWeek": "79.99%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "98.62%",
     "time": 709,
     "timeDay": 494,
     "timeWeek": 555,
@@ -1753,7 +1753,7 @@
       "2026-06-04": 448,
       "2026-06-05": 215,
       "2026-06-06": 17,
-      "2026-06-07": 1
+      "2026-06-07": 196
     }
   },
   {
@@ -1763,10 +1763,10 @@
     "slug": "shop-yuudoku",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "81.94%",
-    "uptimeMonth": "93.38%",
-    "uptimeYear": "98.61%",
+    "uptimeDay": "86.42%",
+    "uptimeWeek": "80.00%",
+    "uptimeMonth": "92.94%",
+    "uptimeYear": "98.57%",
     "time": 2295,
     "timeDay": 822,
     "timeWeek": 1299,
@@ -1835,7 +1835,7 @@
       "2026-06-04": 446,
       "2026-06-05": 214,
       "2026-06-06": 17,
-      "2026-06-07": 1
+      "2026-06-07": 196
     }
   }
 ]
