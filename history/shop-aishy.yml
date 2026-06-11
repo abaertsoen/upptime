@@ -1,7 +1,7 @@
 url: https://aishy.fr
-status: up
-code: 200
-responseTime: 11905
-lastUpdated: 2026-06-11T00:29:50.304Z
+status: down
+code: 415
+responseTime: 650
+lastUpdated: 2026-06-11T01:44:49.817Z
 startTime: 2021-01-10T07:12:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
