@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1407,
+      "2026-06-25": 94,
+      "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -379,8 +380,7 @@
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
-      "2025-06-26": 1440,
-      "2025-06-25": 1440
+      "2025-06-26": 1440
     }
   },
   {
@@ -388,16 +388,16 @@
     "url": "https://dreamension.fr",
     "icon": "https://icons.duckduckgo.com/ip3/dreamension.fr.ico",
     "slug": "dreamension",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "61.54%",
-    "uptimeWeek": "85.96%",
-    "uptimeMonth": "81.28%",
-    "uptimeYear": "97.79%",
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "54.44%",
+    "uptimeWeek": "84.75%",
+    "uptimeMonth": "81.00%",
+    "uptimeYear": "97.77%",
     "time": 629,
-    "timeDay": 614,
-    "timeWeek": 612,
-    "timeMonth": 616,
+    "timeDay": 557,
+    "timeWeek": 600,
+    "timeMonth": 615,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2026-03-21": 46,
@@ -458,7 +458,8 @@
       "2026-06-20": 300,
       "2026-06-22": 265,
       "2026-06-23": 310,
-      "2026-06-24": 539
+      "2026-06-24": 572,
+      "2026-06-25": 89
     }
   },
   {
@@ -478,7 +479,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1407,
+      "2026-06-25": 94,
+      "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -841,8 +843,7 @@
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
-      "2025-06-26": 1440,
-      "2025-06-25": 1440
+      "2025-06-26": 1440
     }
   },
   {
@@ -855,12 +856,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.09%",
-    "time": 17398,
-    "timeDay": 642,
-    "timeWeek": 521,
-    "timeMonth": 436,
-    "timeYear": 17540,
+    "uptimeYear": "11.11%",
+    "time": 17397,
+    "timeDay": 398,
+    "timeWeek": 479,
+    "timeMonth": 435,
+    "timeYear": 17493,
     "dailyMinutesDown": {
       "2026-05-15": 729,
       "2026-05-14": 1440,
@@ -1185,8 +1186,7 @@
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
-      "2025-06-26": 1440,
-      "2025-06-25": 1440
+      "2025-06-26": 1440
     }
   },
   {
@@ -1194,17 +1194,17 @@
     "url": "https://musga.fr",
     "icon": "https://icons.duckduckgo.com/ip3/musga.fr.ico",
     "slug": "musga",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "61.61%",
-    "uptimeWeek": "85.98%",
-    "uptimeMonth": "81.34%",
-    "uptimeYear": "97.80%",
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "54.46%",
+    "uptimeWeek": "84.77%",
+    "uptimeMonth": "81.06%",
+    "uptimeYear": "97.78%",
     "time": 723,
-    "timeDay": 638,
-    "timeWeek": 690,
-    "timeMonth": 657,
-    "timeYear": 725,
+    "timeDay": 617,
+    "timeWeek": 666,
+    "timeMonth": 656,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2026-03-21": 46,
       "2026-03-22": 127,
@@ -1264,7 +1264,8 @@
       "2026-06-20": 299,
       "2026-06-22": 265,
       "2026-06-23": 309,
-      "2026-06-24": 539
+      "2026-06-24": 572,
+      "2026-06-25": 89
     }
   },
   {
@@ -1284,7 +1285,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 1407,
+      "2026-06-25": 95,
+      "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -1647,8 +1649,7 @@
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
-      "2025-06-26": 1440,
-      "2025-06-25": 1440
+      "2025-06-26": 1440
     }
   },
   {
@@ -1656,16 +1657,16 @@
     "url": "https://aishy.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aishy.fr.ico",
     "slug": "shop-aishy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "62.00%",
-    "uptimeWeek": "84.75%",
-    "uptimeMonth": "80.23%",
-    "uptimeYear": "97.72%",
+    "uptimeDay": "54.34%",
+    "uptimeWeek": "83.48%",
+    "uptimeMonth": "79.94%",
+    "uptimeYear": "97.69%",
     "time": 722,
-    "timeDay": 565,
-    "timeWeek": 580,
-    "timeMonth": 790,
+    "timeDay": 525,
+    "timeWeek": 562,
+    "timeMonth": 786,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2026-03-22": 127,
@@ -1726,7 +1727,8 @@
       "2026-06-21": 131,
       "2026-06-22": 265,
       "2026-06-23": 304,
-      "2026-06-24": 538
+      "2026-06-24": 570,
+      "2026-06-25": 94
     }
   },
   {
@@ -1734,17 +1736,17 @@
     "url": "https://yuudoku.jv360.fr",
     "icon": "https://icons.duckduckgo.com/ip3/yuudoku.jv360.fr.ico",
     "slug": "shop-yuudoku",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "62.05%",
-    "uptimeWeek": "84.76%",
-    "uptimeMonth": "80.25%",
-    "uptimeYear": "97.71%",
-    "time": 2307,
-    "timeDay": 677,
-    "timeWeek": 2343,
-    "timeMonth": 2464,
-    "timeYear": 2265,
+    "uptimeDay": "54.38%",
+    "uptimeWeek": "83.50%",
+    "uptimeMonth": "79.96%",
+    "uptimeYear": "97.69%",
+    "time": 2306,
+    "timeDay": 622,
+    "timeWeek": 2254,
+    "timeMonth": 2339,
+    "timeYear": 2261,
     "dailyMinutesDown": {
       "2026-03-21": 20,
       "2026-03-22": 127,
@@ -1803,7 +1805,8 @@
       "2026-06-21": 131,
       "2026-06-22": 265,
       "2026-06-23": 304,
-      "2026-06-24": 538
+      "2026-06-24": 571,
+      "2026-06-25": 94
     }
   }
 ]
