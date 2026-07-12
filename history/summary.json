@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 81,
+      "2026-07-12": 150,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -390,10 +390,10 @@
     "slug": "dreamension",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "84.08%",
-    "uptimeWeek": "95.85%",
-    "uptimeMonth": "83.15%",
-    "uptimeYear": "97.37%",
+    "uptimeDay": "79.24%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "82.99%",
+    "uptimeYear": "97.36%",
     "time": 627,
     "timeDay": 516,
     "timeWeek": 570,
@@ -458,7 +458,7 @@
       "2026-07-09": 61,
       "2026-07-10": 68,
       "2026-07-11": 223,
-      "2026-07-12": 6
+      "2026-07-12": 76
     }
   },
   {
@@ -478,7 +478,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 81,
+      "2026-07-12": 150,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -855,7 +855,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.77%",
+    "uptimeYear": "15.78%",
     "time": 17242,
     "timeDay": 339,
     "timeWeek": 487,
@@ -1178,10 +1178,10 @@
     "slug": "musga",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "84.14%",
-    "uptimeWeek": "95.86%",
-    "uptimeMonth": "83.19%",
-    "uptimeYear": "97.38%",
+    "uptimeDay": "79.30%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "83.03%",
+    "uptimeYear": "97.36%",
     "time": 718,
     "timeDay": 586,
     "timeWeek": 648,
@@ -1246,7 +1246,7 @@
       "2026-07-09": 61,
       "2026-07-10": 68,
       "2026-07-11": 222,
-      "2026-07-12": 6
+      "2026-07-12": 75
     }
   },
   {
@@ -1266,7 +1266,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 81,
+      "2026-07-12": 151,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -1718,10 +1718,10 @@
     "slug": "shop-yuudoku",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "84.58%",
-    "uptimeWeek": "95.94%",
-    "uptimeMonth": "83.29%",
-    "uptimeYear": "97.35%",
+    "uptimeDay": "79.74%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "83.14%",
+    "uptimeYear": "97.33%",
     "time": 2334,
     "timeDay": 709,
     "timeWeek": 1463,
@@ -1785,7 +1785,7 @@
       "2026-07-09": 60,
       "2026-07-10": 67,
       "2026-07-11": 222,
-      "2026-07-12": 0
+      "2026-07-12": 70
     }
   }
 ]
