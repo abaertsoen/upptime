@@ -1,7 +1,7 @@
 url: https://yuudoku.jv360.fr
-status: up
-code: 200
-responseTime: 1009
-lastUpdated: 2026-07-14T23:37:11.772Z
+status: down
+code: 415
+responseTime: 661
+lastUpdated: 2026-07-15T00:01:45.335Z
 startTime: 2021-01-10T07:12:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
