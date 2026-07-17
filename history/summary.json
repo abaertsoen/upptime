@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "72.34%",
+    "uptime": "72.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 253,
+      "2026-07-17": 145,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -379,8 +380,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   },
   {
@@ -390,14 +390,14 @@
     "slug": "dreamension",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "72.60%",
+    "uptimeDay": "92.87%",
     "uptimeWeek": "87.70%",
-    "uptimeMonth": "84.38%",
+    "uptimeMonth": "85.55%",
     "uptimeYear": "97.29%",
     "time": 627,
-    "timeDay": 597,
-    "timeWeek": 583,
-    "timeMonth": 576,
+    "timeDay": 590,
+    "timeWeek": 582,
+    "timeMonth": 577,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2026-04-15": 51,
@@ -468,7 +468,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "22.53%",
+    "uptime": "22.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -479,7 +479,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 254,
+      "2026-07-17": 146,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -842,8 +843,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   },
   {
@@ -852,16 +852,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "up",
-    "uptime": "77.33%",
+    "uptime": "77.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.90%",
-    "time": 17099,
-    "timeDay": 605,
-    "timeWeek": 598,
-    "timeMonth": 502,
-    "timeYear": 16381,
+    "uptimeYear": "17.15%",
+    "time": 17064,
+    "timeDay": 545,
+    "timeWeek": 603,
+    "timeMonth": 505,
+    "timeYear": 16328,
     "dailyMinutesDown": {
       "2026-05-15": 729,
       "2026-05-14": 1440,
@@ -1164,8 +1164,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   },
   {
@@ -1175,14 +1174,14 @@
     "slug": "musga",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "72.64%",
+    "uptimeDay": "92.86%",
     "uptimeWeek": "87.73%",
-    "uptimeMonth": "84.41%",
+    "uptimeMonth": "85.58%",
     "uptimeYear": "97.30%",
     "time": 717,
-    "timeDay": 656,
+    "timeDay": 682,
     "timeWeek": 644,
-    "timeMonth": 650,
+    "timeMonth": 637,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2026-04-15": 51,
@@ -1264,7 +1263,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 254,
+      "2026-07-17": 146,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -1627,8 +1627,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   },
   {
@@ -1638,15 +1637,15 @@
     "slug": "shop-aishy",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "72.68%",
+    "uptimeDay": "92.53%",
     "uptimeWeek": "89.77%",
-    "uptimeMonth": "84.37%",
+    "uptimeMonth": "85.78%",
     "uptimeYear": "97.26%",
     "time": 704,
-    "timeDay": 584,
+    "timeDay": 622,
     "timeWeek": 613,
-    "timeMonth": 579,
-    "timeYear": 686,
+    "timeMonth": 580,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2026-04-16": 49,
       "2026-04-18": 87,
@@ -1717,15 +1716,15 @@
     "slug": "shop-yuudoku",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "72.79%",
+    "uptimeDay": "92.53%",
     "uptimeWeek": "87.79%",
-    "uptimeMonth": "84.51%",
+    "uptimeMonth": "85.92%",
     "uptimeYear": "97.28%",
     "time": 2295,
-    "timeDay": 917,
-    "timeWeek": 1506,
-    "timeMonth": 2488,
-    "timeYear": 2268,
+    "timeDay": 1293,
+    "timeWeek": 1508,
+    "timeMonth": 2463,
+    "timeYear": 2259,
     "dailyMinutesDown": {
       "2026-04-18": 87,
       "2026-04-19": 145,
