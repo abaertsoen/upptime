@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "72.28%",
+    "uptime": "72.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1237,
+      "2026-07-18": 137,
+      "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -379,8 +380,7 @@
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
-      "2025-07-19": 1440,
-      "2025-07-18": 1440
+      "2025-07-19": 1440
     }
   },
   {
@@ -391,12 +391,12 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "86.99%",
-    "uptimeWeek": "86.12%",
+    "uptimeWeek": "86.52%",
     "uptimeMonth": "85.57%",
     "uptimeYear": "97.28%",
     "time": 625,
-    "timeDay": 548,
-    "timeWeek": 578,
+    "timeDay": 546,
+    "timeWeek": 581,
     "timeMonth": 575,
     "timeYear": 627,
     "dailyMinutesDown": {
@@ -478,7 +478,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1237,
+      "2026-07-18": 137,
+      "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -841,8 +842,7 @@
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
-      "2025-07-19": 1440,
-      "2025-07-18": 1440
+      "2025-07-19": 1440
     }
   },
   {
@@ -851,16 +851,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "up",
-    "uptime": "77.35%",
+    "uptime": "77.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.36%",
-    "time": 17064,
-    "timeDay": 545,
-    "timeWeek": 603,
-    "timeMonth": 505,
-    "timeYear": 16328,
+    "uptimeYear": "17.42%",
+    "time": 17029,
+    "timeDay": 582,
+    "timeWeek": 606,
+    "timeMonth": 501,
+    "timeYear": 16276,
     "dailyMinutesDown": {
       "2026-05-15": 729,
       "2026-05-14": 1440,
@@ -1162,8 +1162,7 @@
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
-      "2025-07-19": 1440,
-      "2025-07-18": 1440
+      "2025-07-19": 1440
     }
   },
   {
@@ -1174,12 +1173,12 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "87.03%",
-    "uptimeWeek": "86.15%",
+    "uptimeWeek": "86.55%",
     "uptimeMonth": "85.60%",
     "uptimeYear": "97.29%",
     "time": 717,
-    "timeDay": 648,
-    "timeWeek": 646,
+    "timeDay": 651,
+    "timeWeek": 647,
     "timeMonth": 638,
     "timeYear": 716,
     "dailyMinutesDown": {
@@ -1261,7 +1260,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1237,
+      "2026-07-18": 138,
+      "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -1624,8 +1624,7 @@
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
-      "2025-07-19": 1440,
-      "2025-07-18": 1440
+      "2025-07-19": 1440
     }
   },
   {
@@ -1636,12 +1635,12 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "87.07%",
-    "uptimeWeek": "88.15%",
+    "uptimeWeek": "88.59%",
     "uptimeMonth": "85.80%",
     "uptimeYear": "97.25%",
     "time": 703,
-    "timeDay": 604,
-    "timeWeek": 615,
+    "timeDay": 612,
+    "timeWeek": 625,
     "timeMonth": 583,
     "timeYear": 683,
     "dailyMinutesDown": {
@@ -1715,14 +1714,14 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "87.11%",
-    "uptimeWeek": "86.17%",
+    "uptimeWeek": "86.62%",
     "uptimeMonth": "85.94%",
     "uptimeYear": "97.26%",
     "time": 2287,
-    "timeDay": 798,
-    "timeWeek": 1422,
-    "timeMonth": 2302,
-    "timeYear": 2251,
+    "timeDay": 860,
+    "timeWeek": 1465,
+    "timeMonth": 2305,
+    "timeYear": 2250,
     "dailyMinutesDown": {
       "2026-04-19": 145,
       "2026-04-21": 203,
