@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1034,
+      "2026-07-24": 1127,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -388,16 +388,16 @@
     "url": "https://dreamension.fr",
     "icon": "https://icons.duckduckgo.com/ip3/dreamension.fr.ico",
     "slug": "dreamension",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "82.87%",
-    "uptimeMonth": "84.85%",
-    "uptimeYear": "97.10%",
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "93.57%",
+    "uptimeWeek": "82.56%",
+    "uptimeMonth": "84.65%",
+    "uptimeYear": "97.09%",
     "time": 625,
-    "timeDay": 653,
-    "timeWeek": 584,
-    "timeMonth": 575,
+    "timeDay": 696,
+    "timeWeek": 602,
+    "timeMonth": 576,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2026-05-09": 32,
@@ -456,7 +456,7 @@
       "2026-07-21": 206,
       "2026-07-22": 565,
       "2026-07-23": 67,
-      "2026-07-24": 6
+      "2026-07-24": 93
     }
   },
   {
@@ -476,7 +476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1035,
+      "2026-07-24": 1127,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -853,7 +853,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.24%",
+    "uptimeYear": "19.25%",
     "time": 16819,
     "timeDay": 413,
     "timeWeek": 515,
@@ -1162,16 +1162,16 @@
     "url": "https://musga.fr",
     "icon": "https://icons.duckduckgo.com/ip3/musga.fr.ico",
     "slug": "musga",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "82.90%",
-    "uptimeMonth": "84.89%",
-    "uptimeYear": "97.11%",
+    "uptimeDay": "93.58%",
+    "uptimeWeek": "82.58%",
+    "uptimeMonth": "84.69%",
+    "uptimeYear": "97.10%",
     "time": 715,
-    "timeDay": 497,
-    "timeWeek": 635,
-    "timeMonth": 629,
+    "timeDay": 656,
+    "timeWeek": 653,
+    "timeMonth": 632,
     "timeYear": 715,
     "dailyMinutesDown": {
       "2026-05-09": 27,
@@ -1230,7 +1230,7 @@
       "2026-07-21": 206,
       "2026-07-22": 564,
       "2026-07-23": 67,
-      "2026-07-24": 6
+      "2026-07-24": 92
     }
   },
   {
@@ -1250,7 +1250,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1035,
+      "2026-07-24": 1127,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -1622,16 +1622,16 @@
     "url": "https://aishy.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aishy.fr.ico",
     "slug": "shop-aishy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "82.98%",
-    "uptimeMonth": "85.40%",
-    "uptimeYear": "97.07%",
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "82.61%",
+    "uptimeMonth": "85.19%",
+    "uptimeYear": "97.05%",
     "time": 697,
-    "timeDay": 447,
-    "timeWeek": 592,
-    "timeMonth": 588,
+    "timeDay": 551,
+    "timeWeek": 602,
+    "timeMonth": 589,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2026-05-11": 143,
@@ -1690,7 +1690,7 @@
       "2026-07-21": 205,
       "2026-07-22": 564,
       "2026-07-23": 67,
-      "2026-07-24": 1
+      "2026-07-24": 92
     }
   },
   {
@@ -1698,17 +1698,17 @@
     "url": "https://yuudoku.jv360.fr",
     "icon": "https://icons.duckduckgo.com/ip3/yuudoku.jv360.fr.ico",
     "slug": "shop-yuudoku",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "83.00%",
-    "uptimeMonth": "85.54%",
-    "uptimeYear": "97.11%",
-    "time": 2315,
-    "timeDay": 416,
-    "timeWeek": 1732,
-    "timeMonth": 2156,
-    "timeYear": 2243,
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "82.63%",
+    "uptimeMonth": "85.33%",
+    "uptimeYear": "97.09%",
+    "time": 2325,
+    "timeDay": 5034,
+    "timeWeek": 2189,
+    "timeMonth": 2250,
+    "timeYear": 2253,
     "dailyMinutesDown": {
       "2026-05-16": 74,
       "2026-05-18": 62,
@@ -1765,7 +1765,7 @@
       "2026-07-21": 205,
       "2026-07-22": 564,
       "2026-07-23": 67,
-      "2026-07-24": 1
+      "2026-07-24": 92
     }
   }
 ]
