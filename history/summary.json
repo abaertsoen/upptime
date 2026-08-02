@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 1248,
+      "2026-08-02": 1288,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -388,16 +388,16 @@
     "url": "https://dreamension.fr",
     "icon": "https://icons.duckduckgo.com/ip3/dreamension.fr.ico",
     "slug": "dreamension",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "88.53%",
-    "uptimeMonth": "88.76%",
-    "uptimeYear": "97.04%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "88.18%",
+    "uptimeMonth": "88.68%",
+    "uptimeYear": "97.03%",
     "time": 625,
-    "timeDay": 789,
-    "timeWeek": 577,
-    "timeMonth": 589,
+    "timeDay": 737,
+    "timeWeek": 582,
+    "timeMonth": 590,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2026-06-01": 292,
@@ -450,7 +450,7 @@
       "2026-07-27": 697,
       "2026-07-28": 381,
       "2026-07-29": 63,
-      "2026-08-02": 15
+      "2026-08-02": 50
     }
   },
   {
@@ -470,7 +470,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 1248,
+      "2026-08-02": 1288,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -847,7 +847,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.74%",
+    "uptimeYear": "21.75%",
     "time": 16508,
     "timeDay": 474,
     "timeWeek": 535,
@@ -1147,16 +1147,16 @@
     "url": "https://musga.fr",
     "icon": "https://icons.duckduckgo.com/ip3/musga.fr.ico",
     "slug": "musga",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "88.59%",
-    "uptimeMonth": "88.80%",
-    "uptimeYear": "97.05%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "88.25%",
+    "uptimeMonth": "88.72%",
+    "uptimeYear": "97.04%",
     "time": 715,
-    "timeDay": 705,
-    "timeWeek": 662,
-    "timeMonth": 656,
+    "timeDay": 772,
+    "timeWeek": 670,
+    "timeMonth": 657,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2026-06-01": 291,
@@ -1209,7 +1209,7 @@
       "2026-07-27": 696,
       "2026-07-28": 381,
       "2026-07-29": 63,
-      "2026-08-02": 10
+      "2026-08-02": 45
     }
   },
   {
@@ -1229,7 +1229,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 1248,
+      "2026-08-02": 1289,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1601,15 +1601,15 @@
     "url": "https://aishy.fr",
     "icon": "https://icons.duckduckgo.com/ip3/aishy.fr.ico",
     "slug": "shop-aishy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "88.22%",
-    "uptimeMonth": "89.19%",
-    "uptimeYear": "97.10%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "87.82%",
+    "uptimeMonth": "89.10%",
+    "uptimeYear": "97.09%",
     "time": 691,
-    "timeDay": 638,
-    "timeWeek": 583,
+    "timeDay": 645,
+    "timeWeek": 586,
     "timeMonth": 602,
     "timeYear": 672,
     "dailyMinutesDown": {
@@ -1663,7 +1663,7 @@
       "2026-07-27": 690,
       "2026-07-28": 385,
       "2026-07-29": 112,
-      "2026-08-02": 0
+      "2026-08-02": 40
     }
   },
   {
