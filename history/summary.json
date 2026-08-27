@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "70.90%",
+    "uptime": "70.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 67,
+      "2026-08-27": 434,
+      "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -379,8 +380,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   },
   {
@@ -392,12 +392,12 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.98%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "97.15%",
     "time": 626,
-    "timeDay": 529,
-    "timeWeek": 728,
-    "timeMonth": 625,
+    "timeDay": 442,
+    "timeWeek": 659,
+    "timeMonth": 630,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2026-06-03": 378,
@@ -460,7 +460,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "22.08%",
+    "uptime": "22.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -471,7 +471,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 67,
+      "2026-08-27": 434,
+      "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -834,8 +835,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   },
   {
@@ -844,16 +844,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "up",
-    "uptime": "77.79%",
+    "uptime": "77.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.09%",
-    "time": 15679,
-    "timeDay": 423,
-    "timeWeek": 564,
-    "timeMonth": 520,
-    "timeYear": 14222,
+    "uptimeYear": "28.44%",
+    "time": 15648,
+    "timeDay": 342,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 14169,
     "dailyMinutesDown": {
       "2026-05-15": 729,
       "2026-05-14": 1440,
@@ -1115,8 +1115,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   },
   {
@@ -1128,12 +1127,12 @@
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.03%",
+    "uptimeMonth": "97.36%",
     "uptimeYear": "97.16%",
     "time": 715,
-    "timeDay": 550,
-    "timeWeek": 820,
-    "timeMonth": 710,
+    "timeDay": 535,
+    "timeWeek": 764,
+    "timeMonth": 714,
     "timeYear": 715,
     "dailyMinutesDown": {
       "2026-06-03": 378,
@@ -1207,7 +1206,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 67,
+      "2026-08-27": 434,
+      "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -1570,8 +1570,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   },
   {
@@ -1583,13 +1582,13 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.97%",
+    "uptimeMonth": "97.29%",
     "uptimeYear": "97.22%",
     "time": 675,
-    "timeDay": 453,
-    "timeWeek": 669,
-    "timeMonth": 605,
-    "timeYear": 663,
+    "timeDay": 441,
+    "timeWeek": 629,
+    "timeMonth": 607,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2026-06-04": 217,
       "2026-06-05": 215,
@@ -1651,16 +1650,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/yuudoku.jv360.fr.ico",
     "slug": "shop-yuudoku",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.84%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "97.10%",
     "time": 2342,
-    "timeDay": 1295,
-    "timeWeek": 2892,
-    "timeMonth": 3251,
-    "timeYear": 2306,
+    "timeDay": 548,
+    "timeWeek": 2840,
+    "timeMonth": 3304,
+    "timeYear": 2305,
     "dailyMinutesDown": {
       "2026-06-02": 447,
       "2026-06-03": 377,
