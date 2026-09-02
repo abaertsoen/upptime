@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "70.69%",
+    "uptime": "70.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-01": 210,
+      "2026-09-02": 168,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -379,8 +380,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dreamension.fr.ico",
     "slug": "dreamension",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "97.15%",
-    "time": 626,
-    "timeDay": 665,
-    "timeWeek": 661,
-    "timeMonth": 669,
+    "time": 627,
+    "timeDay": 711,
+    "timeWeek": 687,
+    "timeMonth": 667,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2026-06-03": 378,
@@ -460,7 +460,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "22.02%",
+    "uptime": "22.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -471,7 +471,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-01": 210,
+      "2026-09-02": 168,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -834,8 +835,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   },
   {
@@ -844,16 +844,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "up",
-    "uptime": "77.85%",
+    "uptime": "77.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.76%",
-    "time": 15456,
-    "timeDay": 535,
-    "timeWeek": 531,
-    "timeMonth": 521,
-    "timeYear": 13906,
+    "uptimeYear": "30.03%",
+    "time": 15418,
+    "timeDay": 584,
+    "timeWeek": 554,
+    "timeMonth": 524,
+    "timeYear": 13854,
     "dailyMinutesDown": {
       "2026-05-15": 729,
       "2026-05-14": 1440,
@@ -1109,8 +1109,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   },
   {
@@ -1125,9 +1124,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "97.16%",
     "time": 716,
-    "timeDay": 743,
-    "timeWeek": 812,
-    "timeMonth": 763,
+    "timeDay": 662,
+    "timeWeek": 828,
+    "timeMonth": 762,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2026-06-03": 378,
@@ -1201,7 +1200,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-01": 210,
+      "2026-09-02": 169,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -1564,8 +1564,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   },
   {
@@ -1580,9 +1579,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "97.22%",
     "time": 674,
-    "timeDay": 682,
-    "timeWeek": 658,
-    "timeMonth": 634,
+    "timeDay": 754,
+    "timeWeek": 701,
+    "timeMonth": 637,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2026-06-04": 217,
@@ -1651,8 +1650,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.10%",
     "time": 2361,
-    "timeDay": 1302,
-    "timeWeek": 7946,
+    "timeDay": 1192,
+    "timeWeek": 7931,
     "timeMonth": 4320,
     "timeYear": 2342,
     "dailyMinutesDown": {
