@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-15": 123,
+      "2026-10-15": 188,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -390,13 +390,13 @@
     "slug": "dreamension",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "97.21%",
     "time": 629,
-    "timeDay": 2473,
-    "timeWeek": 1099,
+    "timeDay": 4185,
+    "timeWeek": 1155,
     "timeMonth": 722,
     "timeYear": 630,
     "dailyMinutesDown": {
@@ -473,7 +473,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-15": 123,
+      "2026-10-15": 188,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -850,10 +850,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.80%",
+    "uptimeYear": "41.81%",
     "time": 13821,
     "timeDay": 624,
-    "timeWeek": 537,
+    "timeWeek": 531,
     "timeMonth": 500,
     "timeYear": 11647,
     "dailyMinutesDown": {
@@ -1078,13 +1078,13 @@
     "slug": "musga",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "97.23%",
     "time": 716,
-    "timeDay": 819,
-    "timeWeek": 780,
+    "timeDay": 932,
+    "timeWeek": 775,
     "timeMonth": 710,
     "timeYear": 713,
     "dailyMinutesDown": {
@@ -1160,7 +1160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-15": 123,
+      "2026-10-15": 188,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -1534,13 +1534,13 @@
     "slug": "shop-aishy",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "97.23%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "97.22%",
     "time": 675,
-    "timeDay": 726,
-    "timeWeek": 653,
+    "timeDay": 786,
+    "timeWeek": 632,
     "timeMonth": 592,
     "timeYear": 655,
     "dailyMinutesDown": {
@@ -1597,7 +1597,7 @@
       "2026-08-10": 31,
       "2026-09-20": 227,
       "2026-10-14": 17,
-      "2026-10-15": 2
+      "2026-10-15": 67
     }
   },
   {
@@ -1607,13 +1607,13 @@
     "slug": "shop-yuudoku",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "97.18%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "97.17%",
     "time": 2478,
-    "timeDay": 15314,
-    "timeWeek": 8379,
+    "timeDay": 22624,
+    "timeWeek": 8656,
     "timeMonth": 7305,
     "timeYear": 2572,
     "dailyMinutesDown": {
@@ -1667,7 +1667,7 @@
       "2026-07-28": 384,
       "2026-07-29": 62,
       "2026-10-14": 16,
-      "2026-10-15": 1
+      "2026-10-15": 66
     }
   }
 ]
