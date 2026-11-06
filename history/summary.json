@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "68.53%",
+    "uptime": "68.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-05": 301,
+      "2026-11-06": 301,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -379,8 +380,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "97.21%",
     "time": 634,
-    "timeDay": 2387,
-    "timeWeek": 1209,
-    "timeMonth": 870,
+    "timeDay": 0,
+    "timeWeek": 1291,
+    "timeMonth": 875,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2026-06-04": 66,
@@ -462,7 +462,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "21.34%",
+    "uptime": "21.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -473,7 +473,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-05": 301,
+      "2026-11-06": 301,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -836,8 +837,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   },
   {
@@ -846,16 +846,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "down",
-    "uptime": "77.89%",
+    "uptime": "77.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.36%",
+    "uptimeMonth": "52.07%",
     "uptimeYear": "43.87%",
     "time": 13559,
-    "timeDay": 19356,
-    "timeWeek": 19540,
-    "timeMonth": 9607,
-    "timeYear": 11318,
+    "timeDay": 0,
+    "timeWeek": 19522,
+    "timeMonth": 9897,
+    "timeYear": 11294,
     "dailyMinutesDown": {
       "2026-05-15": 729,
       "2026-05-14": 1440,
@@ -1047,8 +1047,8 @@
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
-      "2025-11-06": 1440,
-      "2026-11-05": 302,
+      "2026-11-06": 301,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -1077,9 +1077,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "97.23%",
     "time": 717,
-    "timeDay": 700,
-    "timeWeek": 859,
-    "timeMonth": 767,
+    "timeDay": 0,
+    "timeWeek": 850,
+    "timeMonth": 765,
     "timeYear": 713,
     "dailyMinutesDown": {
       "2026-06-04": 221,
@@ -1143,7 +1143,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/petitgeste.fr.ico",
     "slug": "petit-geste",
     "status": "down",
-    "uptime": "2.77%",
+    "uptime": "2.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1154,7 +1154,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-05": 302,
+      "2026-11-06": 301,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -1517,8 +1518,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   },
   {
@@ -1533,9 +1533,9 @@
     "uptimeMonth": "99.33%",
     "uptimeYear": "97.18%",
     "time": 675,
-    "timeDay": 2859,
-    "timeWeek": 1264,
-    "timeMonth": 763,
+    "timeDay": 0,
+    "timeWeek": 1370,
+    "timeMonth": 765,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2026-06-06": 17,
@@ -1606,10 +1606,10 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "97.13%",
     "time": 2507,
-    "timeDay": 2535,
-    "timeWeek": 1953,
-    "timeMonth": 4098,
-    "timeYear": 2618,
+    "timeDay": 0,
+    "timeWeek": 1821,
+    "timeMonth": 4195,
+    "timeYear": 2608,
     "dailyMinutesDown": {
       "2026-06-03": 377,
       "2026-06-04": 446,
