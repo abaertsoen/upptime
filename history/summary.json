@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "68.14%",
+    "uptime": "68.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-17": 388,
+      "2026-11-18": 352,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -379,8 +380,7 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
-      "2025-11-19": 1440,
-      "2025-11-18": 1440
+      "2025-11-19": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.21%",
     "time": 633,
-    "timeDay": 405,
-    "timeWeek": 564,
-    "timeMonth": 726,
+    "timeDay": 504,
+    "timeWeek": 546,
+    "timeMonth": 719,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2026-06-04": 66,
@@ -462,7 +462,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "21.22%",
+    "uptime": "21.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -473,7 +473,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-17": 389,
+      "2026-11-18": 352,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -836,8 +837,7 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
-      "2025-11-19": 1440,
-      "2025-11-18": 1440
+      "2025-11-19": 1440
     }
   },
   {
@@ -846,16 +846,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "down",
-    "uptime": "77.45%",
+    "uptime": "77.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "15.71%",
+    "uptimeMonth": "12.51%",
     "uptimeYear": "43.87%",
     "time": 13558,
-    "timeDay": 19689,
-    "timeWeek": 19606,
-    "timeMonth": 16502,
-    "timeYear": 11291,
+    "timeDay": 19693,
+    "timeWeek": 19626,
+    "timeMonth": 17118,
+    "timeYear": 11292,
     "dailyMinutesDown": {
       "2026-05-15": 729,
       "2026-05-14": 1440,
@@ -1035,8 +1035,8 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2025-11-18": 1440,
-      "2026-11-17": 389,
+      "2026-11-18": 352,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -1076,10 +1076,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.23%",
-    "time": 717,
-    "timeDay": 600,
-    "timeWeek": 692,
-    "timeMonth": 742,
+    "time": 716,
+    "timeDay": 577,
+    "timeWeek": 652,
+    "timeMonth": 729,
     "timeYear": 713,
     "dailyMinutesDown": {
       "2026-06-04": 221,
@@ -1154,7 +1154,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-17": 389,
+      "2026-11-18": 352,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -1517,8 +1518,7 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
-      "2025-11-19": 1440,
-      "2025-11-18": 1440
+      "2025-11-19": 1440
     }
   },
   {
@@ -1533,9 +1533,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.18%",
     "time": 672,
-    "timeDay": 495,
-    "timeWeek": 547,
-    "timeMonth": 728,
+    "timeDay": 506,
+    "timeWeek": 533,
+    "timeMonth": 722,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2026-06-06": 17,
@@ -1606,10 +1606,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.13%",
     "time": 2509,
-    "timeDay": 7273,
-    "timeWeek": 3750,
-    "timeMonth": 2932,
-    "timeYear": 2617,
+    "timeDay": 628,
+    "timeWeek": 3706,
+    "timeMonth": 2923,
+    "timeYear": 2620,
     "dailyMinutesDown": {
       "2026-06-03": 377,
       "2026-06-04": 446,
