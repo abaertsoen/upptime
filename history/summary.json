@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.briefpoint.fr.ico",
     "slug": "brief-point",
     "status": "down",
-    "uptime": "67.99%",
+    "uptime": "67.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 300,
+      "2026-11-23": 342,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -379,8 +380,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.21%",
     "time": 633,
-    "timeDay": 762,
-    "timeWeek": 575,
-    "timeMonth": 720,
-    "timeYear": 634,
+    "timeDay": 566,
+    "timeWeek": 566,
+    "timeMonth": 715,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2026-06-04": 66,
       "2026-06-05": 220,
@@ -462,7 +462,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infochat.fr.ico",
     "slug": "infochat",
     "status": "down",
-    "uptime": "21.17%",
+    "uptime": "21.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -473,7 +473,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 300,
+      "2026-11-23": 343,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -836,8 +837,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -846,15 +846,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jv360.fr.ico",
     "slug": "jv-360",
     "status": "down",
-    "uptime": "77.27%",
+    "uptime": "77.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "43.87%",
-    "time": 13553,
-    "timeDay": 19460,
-    "timeWeek": 19572,
-    "timeMonth": 19560,
+    "time": 13552,
+    "timeDay": 19538,
+    "timeWeek": 19555,
+    "timeMonth": 19555,
     "timeYear": 11289,
     "dailyMinutesDown": {
       "2026-05-15": 729,
@@ -1030,8 +1030,8 @@
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
-      "2025-11-23": 1440,
-      "2026-11-22": 300,
+      "2026-11-23": 343,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -1077,9 +1077,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.23%",
     "time": 717,
-    "timeDay": 1586,
-    "timeWeek": 781,
-    "timeMonth": 757,
+    "timeDay": 764,
+    "timeWeek": 798,
+    "timeMonth": 747,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2026-06-04": 221,
@@ -1154,7 +1154,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 300,
+      "2026-11-23": 343,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -1517,8 +1518,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   },
   {
@@ -1533,9 +1533,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.18%",
     "time": 671,
-    "timeDay": 457,
-    "timeWeek": 545,
-    "timeMonth": 720,
+    "timeDay": 504,
+    "timeWeek": 548,
+    "timeMonth": 716,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2026-06-06": 17,
@@ -1605,11 +1605,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.13%",
-    "time": 2517,
-    "timeDay": 466,
-    "timeWeek": 3142,
-    "timeMonth": 2932,
-    "timeYear": 2634,
+    "time": 2519,
+    "timeDay": 2646,
+    "timeWeek": 3299,
+    "timeMonth": 2859,
+    "timeYear": 2642,
     "dailyMinutesDown": {
       "2026-06-03": 377,
       "2026-06-04": 446,
